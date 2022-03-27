@@ -31,6 +31,9 @@
 
         <!-- THEME STYLES -->
         <link href="css/layout.min.css" rel="stylesheet" type="text/css"/>
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.slim.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 
         <!-- Favicon -->
         <link rel="shortcut icon" href="favicon.ico"/>
@@ -41,12 +44,12 @@
     <body>
 
         <!--========== HEADER ==========-->
-        <header class="header navbar-fixed-top">
+        <header class="header navbar-fixed-top" style="background-color: #00406e;">
             <!-- Navbar -->
-            <nav class="navbar" role="navigation">
+            <nav class="navbar navbar-expand-sm bg-dark navbar-dark" role="navigation" style="background-color: #00406e;">
                 <div class="container">
                     <!-- Brand and toggle get grouped for better mobile display -->
-                    <div class="menu-container">
+                    <div class="menu-container" style="background-color: #00406e;">
                         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
                             <span class="sr-only">Toggle navigation</span>
                             <span class="toggle-icon"></span>
@@ -66,12 +69,12 @@
                     <div class="collapse navbar-collapse nav-collapse">
                         <div class="menu-container">
                             <ul class="navbar-nav navbar-nav-right">
-                                <li class="nav-item"><a class="nav-item-child nav-item-hover active" href="index.html">Home</a></li>
-                                <li class="nav-item"><a class="nav-item-child nav-item-hover" href="pricing.html">Pricing</a></li>
-                                <li class="nav-item"><a class="nav-item-child nav-item-hover" href="about.html">About</a></li>
-                                <li class="nav-item"><a class="nav-item-child nav-item-hover" href="products.html">Products</a></li>
-                                <li class="nav-item"><a class="nav-item-child nav-item-hover" href="faq.html">FAQ</a></li>
-                                <li class="nav-item"><a class="nav-item-child nav-item-hover" href="contact.html">Contact</a></li>
+                                <li class="nav-item"><a class="nav-item-child nav-item-hover active" href="index.html" style="color:white">Home</a></li>
+                                <li class="nav-item"><a class="nav-item-child nav-item-hover" href="pricing.html" style="color:white">Pricing</a></li>
+                                <li class="nav-item"><a class="nav-item-child nav-item-hover" href="about.html" style="color:white">About</a></li>
+                                <li class="nav-item"><a class="nav-item-child nav-item-hover" href="products.html" style="color:white">Products</a></li>
+                                <li class="nav-item"><a class="nav-item-child nav-item-hover" href="faq.html" style="color:white">FAQ</a></li>
+                                <li class="nav-item"><a class="nav-item-child nav-item-hover" href="contact.html" style="color:white">Contact</a></li>
                             </ul>
                         </div>
                     </div>
@@ -123,362 +126,100 @@
         <!--========== SLIDER ==========-->
 
         <!--========== PAGE LAYOUT ==========-->
-        <!-- Service -->
-        <div class="bg-color-sky-light" data-auto-height="true">
-            <div class="content-lg container">
-                <div class="row row-space-1 margin-b-2">
-                    <div class="col-sm-4 sm-margin-b-2">
-                        <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".3s">
-                            <div class="service" data-height="height">
-                                <div class="service-element">
-                                    <i class="service-icon icon-chemistry"></i>
-                                </div>
-                                <div class="service-info">
-                                    <h3>Art Of Coding</h3>
-                                    <p class="margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
-                                </div>
-                                <a href="#" class="content-wrapper-link"></a>    
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4 sm-margin-b-2">
-                        <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".2s">
-                            <div class="service" data-height="height">
-                                <div class="service-element">
-                                    <i class="service-icon icon-screen-tablet"></i>
-                                </div>
-                                <div class="service-info">
-                                    <h3>Responsive Design</h3>
-                                    <p class="margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
-                                </div>
-                                <a href="#" class="content-wrapper-link"></a>    
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s">
-                            <div class="service" data-height="height">
-                                <div class="service-element">
-                                    <i class="service-icon icon-badge"></i>
-                                </div>
-                                <div class="service-info">
-                                    <h3>Feature Reach</h3>
-                                    <p class="margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
-                                </div>
-                                <a href="#" class="content-wrapper-link"></a>    
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--// end row -->
-
-                <div class="row row-space-1">
-                    <div class="col-sm-4 sm-margin-b-2">
-                        <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".4s">
-                            <div class="service" data-height="height">
-                                <div class="service-element">
-                                    <i class="service-icon icon-notebook"></i>
-                                </div>
-                                <div class="service-info">
-                                    <h3>Useful Documentation</h3>
-                                    <p class="margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
-                                </div>
-                                <a href="#" class="content-wrapper-link"></a>    
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4 sm-margin-b-2">
-                        <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".5s">
-                            <div class="service" data-height="height">
-                                <div class="service-element">
-                                    <i class="service-icon icon-speedometer"></i>
-                                </div>
-                                <div class="service-info">
-                                    <h3>Fast Delivery</h3>
-                                    <p class="margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
-                                </div>
-                                <a href="#" class="content-wrapper-link"></a>    
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".6s">
-                            <div class="service" data-height="height">
-                                <div class="service-element">
-                                    <i class="service-icon icon-badge"></i>
-                                </div>
-                                <div class="service-info">
-                                    <h3>Free Plugins</h3>
-                                    <p class="margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
-                                </div>
-                                <a href="#" class="content-wrapper-link"></a>    
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--// end row -->
-            </div>
-        </div>
-        <!-- End Service -->
-
-        <!-- Latest Products -->
-        <div class="content-lg container">
-            <div class="row margin-b-40">
-                <div class="col-sm-6">
-                    <h2>Latest Products</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna aliqua enim minim veniam exercitation</p>
-                </div>
-            </div>
-            <!--// end row -->
-
-            <div class="row">
-                <!-- Latest Products -->
-                <div class="col-sm-4 sm-margin-b-50">
-                    <div class="margin-b-20">
-                        <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
-                            <img class="img-responsive" src="img/970x647/01.jpg" alt="Latest Products Image">
-                        </div>
-                    </div>
-                    <h4><a href="#">Triangle Roof</a> <span class="text-uppercase margin-l-20">Management</span></h4>
-                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
-                    <a class="link" href="#">Read More</a>
-                </div>
-                <!-- End Latest Products -->
-
-                <!-- Latest Products -->
-                <div class="col-sm-4 sm-margin-b-50">
-                    <div class="margin-b-20">
-                        <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
-                            <img class="img-responsive" src="img/970x647/02.jpg" alt="Latest Products Image">
-                        </div>
-                    </div>
-                    <h4><a href="#">Curved Corners</a> <span class="text-uppercase margin-l-20">Developmeny</span></h4>
-                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
-                    <a class="link" href="#">Read More</a>
-                </div>
-                <!-- End Latest Products -->
-
-                <!-- Latest Products -->
-                <div class="col-sm-4 sm-margin-b-50">
-                    <div class="margin-b-20">
-                        <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
-                            <img class="img-responsive" src="img/970x647/03.jpg" alt="Latest Products Image">
-                        </div>
-                    </div>
-                    <h4><a href="#">Bird On Green</a> <span class="text-uppercase margin-l-20">Design</span></h4>
-                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
-                    <a class="link" href="#">Read More</a>
-                </div>
-                <!-- End Latest Products -->
-            </div>
-            <!--// end row -->
-        </div>
-        <!-- End Latest Products -->
-
-        <!-- Clients -->
+        <!-- Team -->
         <div class="bg-color-sky-light">
-            <div class="content-lg container">
-                <!-- Swiper Clients -->
-                <div class="swiper-slider swiper-clients">
-                    <!-- Swiper Wrapper -->
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <img class="swiper-clients-img" src="img/clients/01.png" alt="Clients Logo">
-                        </div>
-                        <div class="swiper-slide">
-                            <img class="swiper-clients-img" src="img/clients/02.png" alt="Clients Logo">
-                        </div>
-                        <div class="swiper-slide">
-                            <img class="swiper-clients-img" src="img/clients/03.png" alt="Clients Logo">
-                        </div>
-                        <div class="swiper-slide">
-                            <img class="swiper-clients-img" src="img/clients/04.png" alt="Clients Logo">
-                        </div>
-                        <div class="swiper-slide">
-                            <img class="swiper-clients-img" src="img/clients/05.png" alt="Clients Logo">
-                        </div>
-                        <div class="swiper-slide">
-                            <img class="swiper-clients-img" src="img/clients/06.png" alt="Clients Logo">
+                <div class="content-lg container">
+                    <div class="row margin-b-40">
+                        <div class="col-sm-6">
+                            <h2>Meet the Team</h2>
+                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna aliqua enim minim veniam exercitation</p>
                         </div>
                     </div>
-                    <!-- End Swiper Wrapper -->
-                </div>
-                <!-- End Swiper Clients -->
-            </div>
-        </div>
-        <!-- End Clients -->
-
-        <!DOCTYPE html>
-
-<meta name="viewport" content="width=device-width, initial-scale=10">
-<style>
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  transition: 0.3s;
-  width: 20%;
-  border-radius: 5px;
- 
-}
-
-.card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-  
-}
-
-img {
-  border-radius: 15px 15px 0 0;
-}
-
-.container {
-  padding: 2px 16px;
-}
-</style>
-<div class="row row-space-1">
-<div class="card">
-  <img src="data:image/jpeg;base64,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" alt="Avatar" style="width:100%">
-  <div class="container">
-    <h4><b>Deepak Mathur</b></h4> 
-    <p>Director, R10</p> 
-  </div>
-</div>
-<div class="card">
-    <img src="data:image/jpeg;base64,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" alt="Avatar" style="width:100%">
-    <div class="container">
-      <h4><b>Deepak Mathur</b></h4> 
-      <p>Director, R10</p> 
-    </div>
-  </div>
-</div>
-</div>
-
-
-
-        <!-- Testimonials -->
-        <div class="content-lg container">
-            <div class="row">
-                <div class="col-sm-9">
-                    <h2>Customer Reviews</h2>
-
-                    <!-- Swiper Testimonials -->
-                    <div class="swiper-slider swiper-testimonials">
-                        <!-- Swiper Wrapper -->
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <blockquote class="blockquote">
-                                    <div class="margin-b-20">
-                                        Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna aliqua. Ut enim minim veniam exercitation laboris ut siad consequat siad minim enum esqudiat dolore.
+                    <!--// end row -->
+    
+                    <div class="row">
+                        <!-- Team -->
+                        <div class="col-sm-4 sm-margin-b-50">
+                            <div class="bg-color-white margin-b-20">
+                                <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
+                                    <img class="img-responsive" src="img/770x860/01.jpg" alt="Team Image">
+                                </div>
+                            </div>
+                            <h4><a href="#">Alicia Keys</a> <span class="text-uppercase margin-l-20">Project Manager</span></h4>
+                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
+                            <a class="link" href="#">Read More</a>
+                        </div>
+                        <!-- End Team -->
+    
+                        <!-- Team -->
+                        <div class="col-sm-4 sm-margin-b-50">
+                            <div class="bg-color-white margin-b-20">
+                                <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
+                                    <img class="img-responsive" src="img/770x860/02.jpg" alt="Team Image">
+                                </div>
+                            </div>
+                            <h4><a href="#">James Millner</a> <span class="text-uppercase margin-l-20">Lead Developer</span></h4>
+                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
+                            <a class="link" href="#">Read More</a>
+                        </div>
+                        <!-- End Team -->
+    
+                        <!-- Team -->
+                        <div class="col-sm-4 sm-margin-b-50">
+                            <div class="bg-color-white margin-b-20">
+                                <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
+                                    <img class="img-responsive" src="img/770x860/03.jpg" alt="Team Image">
+                                </div>
+                            </div>
+                            <h4><a href="#">Scarlet Johanson</a> <span class="text-uppercase margin-l-20">Designer</span></h4>
+                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
+                            <a class="link" href="#">Read More</a>
+                        </div>
+                        <!-- End Team -->
+                        <!-- Team -->
+                        <div class="col-sm-4 sm-margin-b-50">
+                                <div class="bg-color-white margin-b-20">
+                                    <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
+                                        <img class="img-responsive" src="img/770x860/03.jpg" alt="Team Image">
                                     </div>
-                                    <div class="margin-b-20">
-                                        Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret tempor incididunt dolore magna consequat siad minim aliqua.
+                                </div>
+                                <h4><a href="#">Scarlet Johanson</a> <span class="text-uppercase margin-l-20">Designer</span></h4>
+                                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
+                                <a class="link" href="#">Read More</a>
+                            </div>
+                            <!-- End Team -->
+                            <!-- Team -->
+                        <div class="col-sm-4 sm-margin-b-50">
+                                <div class="bg-color-white margin-b-20">
+                                    <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
+                                        <img class="img-responsive" src="img/770x860/03.jpg" alt="Team Image">
                                     </div>
-                                    <p><span class="fweight-700 color-link">Joh Milner</span>, Metronic Customer</p>
-                                </blockquote>
+                                </div>
+                                <h4><a href="#">Scarlet Johanson</a> <span class="text-uppercase margin-l-20">Designer</span></h4>
+                                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
+                                <a class="link" href="#">Read More</a>
                             </div>
-                            <div class="swiper-slide">
-                                <blockquote class="blockquote">
-                                    <div class="margin-b-20">
-                                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                            <!-- End Team -->
+                            <!-- Team -->
+                        <div class="col-sm-4 sm-margin-b-50">
+                                <div class="bg-color-white margin-b-20">
+                                    <div class="wow zoomIn" data-wow-duration=".3" data-wow-delay=".1s">
+                                        <img class="img-responsive" src="img/770x860/03.jpg" alt="Team Image">
                                     </div>
-                                    <div class="margin-b-20">
-                                        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                                    </div>
-                                    <p><span class="fweight-700 color-link">Alex Clarson</span>, Metronic Customer</p>
-                                </blockquote>
+                                </div>
+                                <h4><a href="#">Scarlet Johanson</a> <span class="text-uppercase margin-l-20">Designer</span></h4>
+                                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
+                                <a class="link" href="#">Read More</a>
                             </div>
-                        </div>
-                        <!-- End Swiper Wrapper -->
-
-                        <!-- Pagination -->
-                        <div class="swiper-testimonials-pagination"></div>
+                            <!-- End Team -->
                     </div>
-                    <!-- End Swiper Testimonials -->
+                    <!--// end row -->
+                    </div>
+                    
                 </div>
+                
             </div>
-            <!--// end row -->
-        </div>
-        <!-- End Testimonials -->
-
-        <!-- Pricing -->
-        <div class="bg-color-sky-light">
-            <div class="content-lg container">
-                <div class="row row-space-1">
-                    <div class="col-sm-4 sm-margin-b-2">
-                        <!-- Pricing -->
-                        <div class="pricing">
-                            <div class="margin-b-30">
-                                <i class="pricing-icon icon-chemistry"></i>
-                                <h3>Starter Kit <span> - $</span> 49</h3>
-                                <p>Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
-                            </div>
-                            <ul class="list-unstyled pricing-list margin-b-50">
-                                <li class="pricing-list-item">Basic Features</li>
-                                <li class="pricing-list-item">Up to 5 products</li>
-                                <li class="pricing-list-item">50 Users Panels</li>
-                            </ul>
-                            <a href="pricing.html" class="btn-theme btn-theme-sm btn-default-bg text-uppercase">Choose</a>
-                        </div>
-                        <!-- End Pricing -->
-                    </div>
-                    <div class="col-sm-4 sm-margin-b-2">
-                        <!-- Pricing -->
-                        <div class="pricing pricing-active">
-                            <div class="margin-b-30">
-                                <i class="pricing-icon icon-badge"></i>
-                                <h3>Professional <span> - $</span> 149</h3>
-                                <p>Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
-                            </div>
-                            <ul class="list-unstyled pricing-list margin-b-50">
-                                <li class="pricing-list-item">Basic Features</li>
-                                <li class="pricing-list-item">Up to 100 products</li>
-                                <li class="pricing-list-item">100 Users Panels</li>
-                            </ul>
-                            <a href="pricing.html" class="btn-theme btn-theme-sm btn-default-bg text-uppercase">Choose</a>
-                        </div>
-                        <!-- End Pricing -->
-                    </div>
-                    <div class="col-sm-4">
-                        <!-- Pricing -->
-                        <div class="pricing">
-                            <div class="margin-b-30">
-                                <i class="pricing-icon icon-shield"></i>
-                                <h3>Advanced <span> - $</span> 249</h3>
-                                <p>Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
-                            </div>
-                            <ul class="list-unstyled pricing-list margin-b-50">
-                                <li class="pricing-list-item">Extended Features</li>
-                                <li class="pricing-list-item">Unlimited products</li>
-                                <li class="pricing-list-item">Unlimited Users Panels</li>
-                            </ul>
-                            <a href="pricing.html" class="btn-theme btn-theme-sm btn-default-bg text-uppercase">Choose</a>
-                        </div>
-                        <!-- End Pricing -->
-                    </div>
-                </div>
-                <!--// end row -->
-            </div>
-        </div>
-        <!-- End Pricing -->
-
-        <!-- Promo Section -->
-        <div class="promo-section overflow-h">
-            <div class="container">
-                <div class="clearfix">
-                    <div class="ver-center">
-                        <div class="ver-center-aligned">
-                            <div class="promo-section-col">
-                                <h2>Our Clients</h2>
-                                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna aliqua enim minim veniam exercitation ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna aliqua enim minim veniam exercitation</p>
-                                <p>Ipsum dolor sit amet consectetur adipiscing elit sed tempor incididut ut sead laboret dolore magna aliqua enim minim veniam exercitation ipsum dolor sit amet consectetur adipiscing</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="promo-section-img-right">
-                <img class="img-responsive" src="img/970x970/01.jpg" alt="Content Image">
-            </div>
-        </div>
-        <!-- End Promo Section -->
+            <!-- End Team -->
 
         <!-- Work -->
         <div class="bg-color-sky-light overflow-h">
@@ -569,29 +310,186 @@ img {
             </div>
         </div>
         <!-- End Work -->
+                <!-- Service -->
+                <div class="bg-color-sky-light" data-auto-height="true">
+                        <div class="content-lg container">
+                            <div class="row row-space-1 margin-b-2">
+                                <div class="col-sm-4 sm-margin-b-2">
+                                    <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".3s">
+                                        <div class="service" data-height="height">
+                                            <div class="service-element">
+                                                <i class="service-icon icon-chemistry"></i>
+                                            </div>
+                                            <div class="service-info">
+                                                <h3>Art Of Coding</h3>
+                                                <p class="margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
+                                            </div>
+                                            <a href="#" class="content-wrapper-link"></a>    
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-4 sm-margin-b-2">
+                                    <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".2s">
+                                        <div class="service" data-height="height">
+                                            <div class="service-element">
+                                                <i class="service-icon icon-screen-tablet"></i>
+                                            </div>
+                                            <div class="service-info">
+                                                <h3>Responsive Design</h3>
+                                                <p class="margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
+                                            </div>
+                                            <a href="#" class="content-wrapper-link"></a>    
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-4">
+                                    <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s">
+                                        <div class="service" data-height="height">
+                                            <div class="service-element">
+                                                <i class="service-icon icon-badge"></i>
+                                            </div>
+                                            <div class="service-info">
+                                                <h3>Feature Reach</h3>
+                                                <p class="margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
+                                            </div>
+                                            <a href="#" class="content-wrapper-link"></a>    
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--// end row -->
+            
+                            <div class="row row-space-1">
+                                <div class="col-sm-4 sm-margin-b-2">
+                                    <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".4s">
+                                        <div class="service" data-height="height">
+                                            <div class="service-element">
+                                                <i class="service-icon icon-notebook"></i>
+                                            </div>
+                                            <div class="service-info">
+                                                <h3>Useful Documentation</h3>
+                                                <p class="margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
+                                            </div>
+                                            <a href="#" class="content-wrapper-link"></a>    
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-4 sm-margin-b-2">
+                                    <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".5s">
+                                        <div class="service" data-height="height">
+                                            <div class="service-element">
+                                                <i class="service-icon icon-speedometer"></i>
+                                            </div>
+                                            <div class="service-info">
+                                                <h3>Fast Delivery</h3>
+                                                <p class="margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
+                                            </div>
+                                            <a href="#" class="content-wrapper-link"></a>    
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-4">
+                                    <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".6s">
+                                        <div class="service" data-height="height">
+                                            <div class="service-element">
+                                                <i class="service-icon icon-badge"></i>
+                                            </div>
+                                            <div class="service-info">
+                                                <h3>Free Plugins</h3>
+                                                <p class="margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
+                                            </div>
+                                            <a href="#" class="content-wrapper-link"></a>    
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--// end row -->
+                        </div>
+                    </div>
+                    <!-- End Service -->
+        <!-- Promo Section -->
+        <div class="promo-section overflow-h">
+                <div class="container">
+                    <div class="clearfix">
+                        <div class="ver-center">
+                            <div class="ver-center-aligned">
+                                <div class="promo-section-col">
+                                    <h2>Our Clients</h2>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna aliqua enim minim veniam exercitation ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna aliqua enim minim veniam exercitation</p>
+                                    <p>Ipsum dolor sit amet consectetur adipiscing elit sed tempor incididut ut sead laboret dolore magna aliqua enim minim veniam exercitation ipsum dolor sit amet consectetur adipiscing</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="promo-section-img-right">
+                    <img class="img-responsive" src="img/970x970/01.jpg" alt="Content Image">
+                </div>
+            </div>
+            <!-- End Promo Section -->
+
+            <!-- Clients -->
+        <div class="bg-color-sky-light">
+                <div class="content-lg container">
+                    <!-- Swiper Clients -->
+                    <div class="swiper-slider swiper-clients">
+                        <!-- Swiper Wrapper -->
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <img class="swiper-clients-img" src="img/clients/01.png" alt="Clients Logo">
+                            </div>
+                            <div class="swiper-slide">
+                                <img class="swiper-clients-img" src="img/clients/02.png" alt="Clients Logo">
+                            </div>
+                            <div class="swiper-slide">
+                                <img class="swiper-clients-img" src="img/clients/03.png" alt="Clients Logo">
+                            </div>
+                            <div class="swiper-slide">
+                                <img class="swiper-clients-img" src="img/clients/04.png" alt="Clients Logo">
+                            </div>
+                            <div class="swiper-slide">
+                                <img class="swiper-clients-img" src="img/clients/05.png" alt="Clients Logo">
+                            </div>
+                            <div class="swiper-slide">
+                                <img class="swiper-clients-img" src="img/clients/06.png" alt="Clients Logo">
+                            </div>
+                        </div>
+                        <!-- End Swiper Wrapper -->
+                    </div>
+                    <!-- End Swiper Clients -->
+                </div>
+            </div>
+            <!-- End Clients -->
         <!--========== END PAGE LAYOUT ==========-->
 
         <!--========== FOOTER ==========-->
         <footer class="footer">
+            <br><br>
             <!-- Links -->
             <div class="footer-seperator">
-                <div class="content-lg container">
+                <div class="content-sm-4 container">
                     <div class="row">
-                        <div class="col-sm-2 sm-margin-b-50">
-                            <!-- List -->
-                            <ul class="list-unstyled footer-list">
-                                <li class="footer-list-item"><a class="footer-list-link" href="#">Home</a></li>
-                                <li class="footer-list-item"><a class="footer-list-link" href="#">About</a></li>
-                                <li class="footer-list-item"><a class="footer-list-link" href="#">Products</a></li>
-                                <li class="footer-list-item"><a class="footer-list-link" href="#">Pricing</a></li>
-                                <li class="footer-list-item"><a class="footer-list-link" href="#">Clients</a></li>
-                                <li class="footer-list-item"><a class="footer-list-link" href="#">Careers</a></li>
-                                <li class="footer-list-item"><a class="footer-list-link" href="#">Contact</a></li>
-                                <li class="footer-list-item"><a class="footer-list-link" href="#">Terms</a></li>
-                            </ul>
-                            <!-- End List -->
-                        </div>
-                        <div class="col-sm-4 sm-margin-b-30">
+                            <div class="col-sm-2 sm-margin-b-50">
+                                    <!-- List -->
+                                    <ul class="list-unstyled footer-list">
+                                        <li class="footer-list-item"><a class="footer-list-link" href="#">Home</a></li>
+                                        <li class="footer-list-item"><a class="footer-list-link" href="#">About</a></li>
+                                        <li class="footer-list-item"><a class="footer-list-link" href="#">Products</a></li>
+                                        <li class="footer-list-item"><a class="footer-list-link" href="#">Pricing</a></li>
+                                                                            </ul>
+                                    <!-- End List -->
+                                </div>
+                                <div class="col-sm-2 sm-margin-b-50">
+                                        <!-- List -->
+                                        <ul class="list-unstyled footer-list">
+                                            <li class="footer-list-item"><a class="footer-list-link" href="#">Clients</a></li>
+                                            <li class="footer-list-item"><a class="footer-list-link" href="#">Careers</a></li>
+                                            <li class="footer-list-item"><a class="footer-list-link" href="#">Contact</a></li>
+                                            <li class="footer-list-item"><a class="footer-list-link" href="#">Terms</a></li>
+                                        </ul>
+                                        <!-- End List -->
+                                    </div>
+                        <div class="col-sm-4 sm-margin-b-90">
                             <!-- List -->
                             <ul class="list-unstyled footer-list">
                                 <li class="footer-list-item"><a class="footer-list-link" href="#">Twitter</a></li>
@@ -601,14 +499,7 @@ img {
                             </ul>
                             <!-- End List -->
                         </div>
-                        <div class="col-sm-5 sm-margin-b-30">
-                            <h2 class="color-white">Send Us A Note</h2>
-                            <input type="text" class="form-control footer-input margin-b-20" placeholder="Name" required>
-                            <input type="email" class="form-control footer-input margin-b-20" placeholder="Email" required>
-                            <input type="text" class="form-control footer-input margin-b-20" placeholder="Phone" required>
-                            <textarea class="form-control footer-input margin-b-30" rows="6" placeholder="Message" required></textarea>
-                            <button type="submit" class="btn-theme btn-theme-sm btn-base-bg text-uppercase">Submit</button>
-                        </div>
+                        
                     </div>
                     <!--// end row -->
                 </div>
