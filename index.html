@@ -43,7 +43,28 @@
                             <span class="sr-only">Toggle navigation</span>
                             <span class="toggle-icon"></span>
                         </button>
-
+                        <style>
+                                /* hide mobile version by default */
+                                .logo .mobile {
+                                  display: none;
+                                  padding-top: 15%;
+                                  width: 180%;
+                                }
+                                /* when screen is less than 600px wide
+                                   show mobile version and hide desktop */
+                                @media (max-width: 600px) {
+                                  .logo .mobile {
+                                    display: block;
+                                  }
+                                  .logo .desktop {
+                                    display: none;
+                                  }
+                                }
+                        </style>
+                              <div class="logo">
+                                <img src="img/logo-dark.png" class="mobile />
+                              </div>
+                              
                         <!-- Logo -->
                         <div class="logo">
                             <a class="logo-wrap" href="index.html">
