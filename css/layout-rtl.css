@@ -341,6 +341,7 @@ fieldset[disabled] .btn-theme {
   height: 25px;
   border: none;
   padding: 0;
+  background: #2669c4;
   margin: 35px 0;
 }
 
@@ -403,7 +404,7 @@ fieldset[disabled] .btn-theme {
 }
 
 .header .navbar-toggle:hover .toggle-icon.is-clicked {
-  background: rgba(81, 87, 105, 0);
+  background: #2669c4;
 }
 
 /* Navbar Logo */
@@ -459,6 +460,7 @@ fieldset[disabled] .btn-theme {
   text-transform: uppercase;
   line-height: 55px;
   padding: 20px;
+  background: #2669c4;
 }
 
 .header .nav-item-child.active {
@@ -481,6 +483,7 @@ fieldset[disabled] .btn-theme {
     (Change it to any breakpoint you want to be collapsed) */
   .header .navbar-toggle {
     display: block;
+    background: #2669c4;
   }
   .header .navbar-collapse.collapse {
     display: none !important;
@@ -592,7 +595,7 @@ fieldset[disabled] .btn-theme {
 }
 
 .back-to-top:hover {
-  color: #fff;
+  color: #2669c4;;
   transition-duration: 300ms;
   transition-property: all;
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
