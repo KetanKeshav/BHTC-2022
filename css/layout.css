@@ -477,13 +477,13 @@ fieldset[disabled] .btn-theme {
   	[Footer]
 ------------------------------------------------------------------*/
 .footer {
-  background: url(../img/1920x1080/03.jpg) no-repeat;
   background-size: cover;
-  background-position: center center;
+  background-position: top top;
+  height: 1px;
 }
 
 .footer .footer-seperator {
-  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  
 }
 
 .footer .footer-list {
@@ -492,7 +492,7 @@ fieldset[disabled] .btn-theme {
 
 .footer .footer-list-item {
   color: #cbd3e1;
-  margin-bottom: 25px;
+  margin-bottom: 2px;
 }
 
 .footer .footer-list-link {
@@ -507,9 +507,6 @@ fieldset[disabled] .btn-theme {
   background: rgba(0, 0, 0, 0.15);
 }
 
-.footer .footer-logo {
-  width: 85px;
-  height: auto;
 }
 
 /*------------------------------------------------------------------
@@ -1238,8 +1235,8 @@ fieldset[disabled] .btn-theme {
 }
 
 .content-sm {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 6px;
+  padding-bottom: 6px;
 }
 
 .content-md {
