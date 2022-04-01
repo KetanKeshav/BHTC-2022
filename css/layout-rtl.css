@@ -48,7 +48,7 @@ li a {
   font-size: 16px;
   font-weight: 500;
   font-family: Hind, sans-serif;
-  color: #515769;
+  color: #2669c4;
 }
 
 a {
@@ -91,13 +91,13 @@ span {
 h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   font-family: Hind, sans-serif;
-  color: #515769;
+  color: #2669c4;
   line-height: 1.4;
   margin: 0 0 15px;
 }
 
 h1 > a, h2 > a, h3 > a, h4 > a, h5 > a, h6 > a {
-  color: #515769;
+  color: #2669c4;
 }
 
 h1 > a:hover, h2 > a:hover, h3 > a:hover, h4 > a:hover, h5 > a:hover, h6 > a:hover {
@@ -350,7 +350,7 @@ fieldset[disabled] .btn-theme {
   width: 21px;
   height: 1px;
   display: inline-block;
-  background: #515769;
+  background: #2669c4;
   transition-duration: 300ms;
   transition-property: all;
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
@@ -359,7 +359,7 @@ fieldset[disabled] .btn-theme {
 .header .navbar-toggle .toggle-icon:before, .header .navbar-toggle .toggle-icon:after {
   position: absolute;
   right: 0;
-  background: #515769;
+  background: #2669c4;
   content: " ";
 }
 
@@ -581,7 +581,7 @@ fieldset[disabled] .btn-theme {
   line-height: 3;
   letter-spacing: 1px;
   text-transform: uppercase;
-  background: #515769;
+  background: #2669c4;
   border-radius: 3px;
   visibility: hidden;
   opacity: 0;
@@ -664,20 +664,20 @@ fieldset[disabled] .btn-theme {
 }
 
 .form-control:focus {
-  color: #515769;
+  color: #2669c4;
   box-shadow: none;
 }
 
 .form-control:focus::-moz-placeholder {
-  color: #515769;
+  color: #2669c4;
 }
 
 .form-control:focus:-ms-input-placeholder {
-  color: #515769;
+  color: #2669c4;
 }
 
 .form-control:focus::-webkit-input-placeholder {
-  color: #515769;
+  color: #2669c4;
 }
 
 /*--------------------------------------------------
@@ -814,7 +814,7 @@ fieldset[disabled] .btn-theme {
 }
 
 .color-heading {
-  color: #515769;
+  color: #2669c4;
 }
 
 .color-subtitle {
@@ -845,7 +845,7 @@ fieldset[disabled] .btn-theme {
 }
 
 .bg-color-heading {
-  background: #515769;
+  background: #2669c4;
 }
 
 .bg-color-subtitle {
