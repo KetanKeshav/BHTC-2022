@@ -5,7 +5,13 @@
         <nav id="navbar" class="navbar">
           <ul>
             <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-            <li class="dropdown"><a href="#"><span>SDG Knowledge</span> <i class="bi bi-chevron-down"></i></a>
+            <li><a class="nav-link scrollto" href="#overview">About The Event</a></li>
+            <li><a class="nav-link scrollto" href="#">Sponsorships</a></li>
+            <li><a class="nav-link scrollto" href="#">Agenda</a></li>
+            <li><a class="nav-link scrollto" href="#oc">Organizing Committee</a></li>
+            <li><a class="nav-link scrollto" href="#">Registration</a></li>
+            <li><a class="nav-link scrollto" href="#">Contact</a></li>
+            <!-- <li class="dropdown"><a href="#"><span>SDG Knowledge</span> <i class="bi bi-chevron-down"></i></a>
               <ul>
                 <li><a href="#">Sustainable Development Goal</a></li>
                 <li><a href="#">Key Topics</a></li>
@@ -14,8 +20,8 @@
                 <li><a href="#">Publications</a></li>
                 <li><a href="#">Global Sustainable Development Report</a></li>
               </ul>
-            </li>
-            <li class="dropdown"><a href="#"><span>Intergovernmental Processes</span> <i class="bi bi-chevron-down"></i></a>
+            </li> -->
+            <!-- <li class="dropdown"><a href="#"><span>Intergovernmental Processes</span> <i class="bi bi-chevron-down"></i></a>
               <ul>
                 <li><a href="#">High-level Political Forum on Sustainable Development</a></li>
                 <li><a href="#">UN Conferences and High-Level Events related to sustainable development</a></li>
@@ -49,8 +55,8 @@
                 <li><a href="#">Stakeholder Engagement</a></li>
               </ul>
             </li>
-            <li><a class="nav-link scrollto" href="#">News</a></li>
-            <li><a class="nav-link scrollto" href="#">About</a></li>
+            <li><a class="nav-link scrollto" href="#">News</a></li> -->
+            
           </ul>
           <i class="bi bi-list mobile-nav-toggle"></i>
         </nav>
