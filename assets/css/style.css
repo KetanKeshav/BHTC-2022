@@ -69,10 +69,10 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
-  top: 20px;
+  padding: 16px 0;
+  background: #000;
 }
 #header .header-container {
   background: rgba(255, 255, 255, 0);
@@ -145,9 +145,9 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
   justify-content: space-between;
   padding: 10px 0 10px 30px;
-  color: #36343a;
+  color: #fff;
   transition: 0.3s;
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 500;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
@@ -323,6 +323,7 @@ h1, h2, h3, h4, h5, h6 {
   /* background: url("../img/hero-bg.jpg") center center;
   background-size: cover; */
   position: relative;
+  margin: 80px 0;
 }
 #hero .container {
   padding-top: 80px;
