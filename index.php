@@ -57,7 +57,7 @@
 
 
     <!-- ======= Related Topics Section ======= -->
-    <section id="related" class="related section-bg">
+    <!-- <section id="related" class="related section-bg">
       <div class="container">
 
         <div class="row">
@@ -96,7 +96,7 @@
         </div>
 
       </div>
-    </section>
+    </section> -->
     <!-- End Related Topics Section -->
 
     <!-- ======= Overview Section ====== -->
