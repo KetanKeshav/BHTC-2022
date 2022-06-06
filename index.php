@@ -18,26 +18,17 @@
 
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center">
-    <!-- <div class="container text-center position-relative" data-aos="fade-in" data-aos-delay="200">
-      <h1>Ensure sustainable consumption and production patterns</h1>
-      <a href="#about" class="btn-get-started scrollto">Get Started</a>
-    </div> -->
     <div id="carouselExampleInterval" class="carousel slide carousel-fade" data-bs-ride="carousel">
       <div class="carousel-inner">
-        <div class="carousel-item active" data-bs-interval="10000">
-          <img src="assets/img/1.png" class="d-block w-100" alt="...">
+        <div class="carousel-item slide-1 active" data-bs-interval="7000">
         </div>
-        <div class="carousel-item" data-bs-interval="10000">
-          <img src="assets/img/2.png" class="d-block w-100" alt="...">
+        <div class="carousel-item slide-2" data-bs-interval="7000">
         </div>
-        <div class="carousel-item" data-bs-interval="10000">
-          <img src="assets/img/3.png" class="d-block w-100" alt="...">
+        <div class="carousel-item slide-3" data-bs-interval="7000">
         </div>
-        <div class="carousel-item" data-bs-interval="10000">
-          <img src="assets/img/4.png" class="d-block w-100" alt="...">
+        <div class="carousel-item slide-4" data-bs-interval="7000">
         </div>
-        <div class="carousel-item" data-bs-interval="10000">
-          <img src="assets/img/5.png" class="d-block w-100" alt="...">
+        <div class="carousel-item slide-5" data-bs-interval="7000">
         </div>
       </div>
       <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
@@ -247,7 +238,7 @@
 
           <div class="col-lg-4 col-md-6 publication-item filter-c1">
             <div class="publication-wrap">
-              <img src="assets/img/publications/1.png" class="img-fluid" alt="">
+              <img src="assets/img/oc/1.jpg" class="img-fluid" alt="">
               <div class="publication-info">
                 <h4>C1</h4>
                 <p>c1</p>
@@ -260,7 +251,7 @@
 
           <div class="col-lg-4 col-md-6 publication-item filter-c3">
             <div class="publication-wrap">
-              <img src="assets/img/publications/1.png" class="img-fluid" alt="">
+              <img src="assets/img/oc/2.jpg" class="img-fluid" alt="">
               <div class="publication-info">
                 <h4>C3</h4>
                 <p>c3</p>
@@ -273,88 +264,10 @@
 
           <div class="col-lg-4 col-md-6 publication-item filter-c2">
             <div class="publication-wrap">
-              <img src="assets/img/publications/1.png" class="img-fluid" alt="">
+              <img src="assets/img/oc/1.jpg" class="img-fluid" alt="">
               <div class="publication-info">
                 <h4>C2</h4>
                 <p>c2</p>
-                <div class="publication-links">
-                  <a href="" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 publication-item filter-c1">
-            <div class="publication-wrap">
-              <img src="assets/img/publications/1.png" class="img-fluid" alt="">
-              <div class="publication-info">
-                <h4>C1</h4>
-                <p>c1</p>
-                <div class="publication-links">
-                  <a href="" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 publication-item filter-c3">
-            <div class="publication-wrap">
-              <img src="assets/img/publications/1.png" class="img-fluid" alt="">
-              <div class="publication-info">
-                <h4>C3</h4>
-                <p>c3</p>
-                <div class="publication-links">
-                  <a href="" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 publication-item filter-c1">
-            <div class="publication-wrap">
-              <img src="assets/img/publications/1.png" class="img-fluid" alt="">
-              <div class="publication-info">
-                <h4>C1</h4>
-                <p>c1</p>
-                <div class="publication-links">
-                  <a href="" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 publication-item filter-c2">
-            <div class="publication-wrap">
-              <img src="assets/img/publications/1.png" class="img-fluid" alt="">
-              <div class="publication-info">
-                <h4>C2</h4>
-                <p>c2</p>
-                <div class="publication-links">
-                  <a href="" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 publication-item filter-c3">
-            <div class="publication-wrap">
-              <img src="assets/img/publications/1.png" class="img-fluid" alt="">
-              <div class="publication-info">
-                <h4>C3</h4>
-                <p>c3</p>
-                <div class="publication-links">
-                  <a href="" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 publication-item filter-c1">
-            <div class="publication-wrap">
-              <img src="assets/img/publications/1.png" class="img-fluid" alt="">
-              <div class="publication-info">
-                <h4>C1</h4>
-                <p>c1</p>
                 <div class="publication-links">
                   <a href="" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
@@ -380,7 +293,7 @@
 
           <div class="col-lg-4 col-md-6 publication-item">
             <div class="publication-wrap">
-              <img src="assets/img/publications/1.png" class="img-fluid" alt="">
+            <img src="assets/img/oc/1.jpg" class="img-fluid" alt="">
               <div class="publication-info">
                 <h4>C1</h4>
                 <p>c1</p>
@@ -393,7 +306,7 @@
 
           <div class="col-lg-4 col-md-6 publication-item">
             <div class="publication-wrap">
-              <img src="assets/img/publications/1.png" class="img-fluid" alt="">
+            <img src="assets/img/oc/2.jpg" class="img-fluid" alt="">
               <div class="publication-info">
                 <h4>C3</h4>
                 <p>c3</p>
@@ -406,88 +319,10 @@
 
           <div class="col-lg-4 col-md-6 publication-item">
             <div class="publication-wrap">
-              <img src="assets/img/publications/1.png" class="img-fluid" alt="">
+            <img src="assets/img/oc/1.jpg" class="img-fluid" alt="">
               <div class="publication-info">
                 <h4>C2</h4>
                 <p>c2</p>
-                <div class="publication-links">
-                  <a href="" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 publication-item">
-            <div class="publication-wrap">
-              <img src="assets/img/publications/1.png" class="img-fluid" alt="">
-              <div class="publication-info">
-                <h4>C1</h4>
-                <p>c1</p>
-                <div class="publication-links">
-                  <a href="" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 publication-item">
-            <div class="publication-wrap">
-              <img src="assets/img/publications/1.png" class="img-fluid" alt="">
-              <div class="publication-info">
-                <h4>C3</h4>
-                <p>c3</p>
-                <div class="publication-links">
-                  <a href="" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 publication-item">
-            <div class="publication-wrap">
-              <img src="assets/img/publications/1.png" class="img-fluid" alt="">
-              <div class="publication-info">
-                <h4>C1</h4>
-                <p>c1</p>
-                <div class="publication-links">
-                  <a href="" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 publication-item">
-            <div class="publication-wrap">
-              <img src="assets/img/publications/1.png" class="img-fluid" alt="">
-              <div class="publication-info">
-                <h4>C2</h4>
-                <p>c2</p>
-                <div class="publication-links">
-                  <a href="" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 publication-item">
-            <div class="publication-wrap">
-              <img src="assets/img/publications/1.png" class="img-fluid" alt="">
-              <div class="publication-info">
-                <h4>C3</h4>
-                <p>c3</p>
-                <div class="publication-links">
-                  <a href="" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 publication-item">
-            <div class="publication-wrap">
-              <img src="assets/img/publications/1.png" class="img-fluid" alt="">
-              <div class="publication-info">
-                <h4>C1</h4>
-                <p>c1</p>
                 <div class="publication-links">
                   <a href="" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
