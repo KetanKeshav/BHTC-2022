@@ -17,7 +17,7 @@
   <?php include 'navbar.php' ?>
 
   <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex align-items-center">
+  <section id="hero" class="align-items-center">
     <div id="carouselExampleInterval" class="carousel slide carousel-fade" data-bs-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item slide-1 active" data-bs-interval="7000">
