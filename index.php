@@ -153,7 +153,7 @@
               <div class="col-lg-6">
                 <div class="member" data-aos="zoom-in" data-aos-delay="100">
                   <div class="member-info">
-                    <h4 style="text-align: left;">Sustainable management and use of natural resources</h4>
+                    <h4 style="text-align: left;">Responsible Production</h4>
                     <!-- <span>Brief</span>
                     <p>Summary</p> -->
                   </div>
@@ -163,7 +163,7 @@
               <div class="col-lg-6">
                 <div class="member" data-aos="zoom-in" data-aos-delay="100">
                   <div class="member-info">
-                    <h4 style="text-align: left;">Responsible management of chemicals and food waste</h4>
+                    <h4 style="text-align: left;">Responsible Consumption</h4>
                     <!-- <span>Brief</span>
                     <p>Summary</p> -->
                   </div>
@@ -173,7 +173,7 @@
               <div class="col-lg-6">
                 <div class="member" data-aos="zoom-in" data-aos-delay="100">
                   <div class="member-info">
-                    <h4 style="text-align: left;">Substantially reduce waste generation</h4>
+                    <h4 style="text-align: left;">Circular Economy</h4>
                     <!-- <span>Brief</span>
                     <p>Summary</p> -->
                   </div>
@@ -183,7 +183,7 @@
               <div class="col-lg-6">
                 <div class="member" data-aos="zoom-in" data-aos-delay="100">
                   <div class="member-info">
-                    <h4 style="text-align: left;">Encourage companies to adopt sustainable practices and sustainability reporting</h4>
+                    <h4 style="text-align: left;">Gandhian Thoughts on Sustainability and Self Reliance</h4>
                     <!-- <span>Brief</span>
                     <p>Summary</p> -->
                   </div>
