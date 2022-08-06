@@ -104,23 +104,23 @@
         <div class="tab-content" id="myTabContent">
           <div class="tab-pane fade show active mt-5 section-title" id="home-tab-pane" role="tabpanel" aria-labelledby="home-tab" tabindex="0">
             <h2>Overview</h2>
-            <p>
-            Welcome to the 2nd edition of <strong> Bangalore Humanitarian Technology Conclave (BHTC) </strong> on the theme 
+            <p align="justify">
+            Welcome to the 2nd edition of <strong> Bangalore Humanitarian Technology Conclave (B-HTC 2022) </strong> This edition of B-HTC focuses on 
             <strong>SDG-12: Responsible Production and Consumption</strong>. 
             <br><br>
-            <strong>The IEEE B-HTC 2022</strong> is a <strong>flagship</strong> event of IEEE Bangalore Section. It is held annually as part of 
-            the Humanitarian  outreach program of the Section; where technology leaders, innovators, 
-            entrepreneurs, and thought provokers share their passion in addressing impactful problems, 
-            and vision on futuristic technologies that will/may disrupt/impact our way of working and living.
+            <strong>The IEEE B-HTC 2022 </strong> is a <strong>flagship</strong> event of IEEE Bangalore Section. It is held annually as part of the 
+            Humanitarian outreach program of the IEEE Bangalore Section; where technology leadersists, innovators, entrepreneurs, and thought provokers 
+            leaders share their passion in addressing impactful the pressing problems, and share vision on futuristic technologies that 
+            will/may disrupt/impact our way of working and living.
             <br><br>
-            This edition of IEEE BHTC will be based on the theme of SDG-12 which is meant to ensure good use of 
-            resources, improving energy efficiency, sustainable infrastructure, and providing access to basic 
-            services, green and decent jobs and ensuring a better quality of life for all, with a specific focus 
+            This edition's focus of IEEE B-HTC will be based on the theme of SDG-12 which is meant to ensure good use of resources, improving energy 
+            efficiency, creating sustainable infrastructure, and providing access to basic services, as well as, green and decent jobs and ensuring a 
+            better quality of life for all, . The conference with a specifically focuses on:
             on: <br><br>
             <ol>
               <li>Sustainable management and use of natural resources</li>
               <li>Responsible management of chemicals and food waste</li>
-              <li>Substantially reduce waste generation</li>
+              <li>Substantial reduction in waste generation</li>
               <li>Encourage companies to adopt sustainable practices and sustainability reporting</li>
             </ol>
             </p>
