@@ -6,6 +6,7 @@
           <ul>
             <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
             <li><a class="nav-link scrollto" href="#overview">About The Event</a></li>
+            <li><a class="nav-link scrollto" href="#callforpapers">Call For Papers</a></li>
             <li><a class="nav-link scrollto" href="#">Sponsorships</a></li>
             <li><a class="nav-link scrollto" href="#">Agenda</a></li>
             <li><a class="nav-link scrollto" href="#oc">Organizing Committee</a></li>
