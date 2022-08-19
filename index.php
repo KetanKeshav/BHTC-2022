@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+<?php $page = "home"; ?>
 
 <head>
   <meta charset="utf-8">
