@@ -6,7 +6,7 @@
           <ul>
             <li><a class="nav-link scrollto <?php if($page == "home") echo 'active'; ?>" href="index.php">Home</a></li>
             <li><a class="nav-link scrollto" href="#overview">About The Event</a></li>
-            <li><a class="nav-link scrollto" href="#">Sponsorships</a></li>
+            <li><a class="nav-link scrollto" href="./assets/downloads/PS-BHTC2022.xlsx" download="BHTC 2022">Program Schedule</a></li>
             <li><a class="nav-link scrollto" href="#">Agenda</a></li>
             <li><a class="nav-link scrollto <?php if($page == "oc") echo 'active'; ?>" href="oc.php">Organizing Committee</a></li>
             <li class="dropdown"><a href="#"><span>Previous Edition</span> <i class="bi bi-chevron-down"></i></a>
