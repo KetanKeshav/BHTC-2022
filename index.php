@@ -110,20 +110,16 @@
             <strong>SDG-12: Responsible Production and Consumption</strong>. 
             <br><br>
             <strong>The IEEE B-HTC 2022 </strong> is a <strong>flagship</strong> event of IEEE Bangalore Section. It is held annually as part of the 
-            Humanitarian outreach program of the IEEE Bangalore Section; where technology leadersists, innovators, entrepreneurs, and thought provokers 
-            leaders share their passion in addressing impactful the pressing problems, and share vision on futuristic technologies that 
-            will/may disrupt/impact our way of working and living.
+            Humanitarian outreach program of the Section where technologists, innovators, entrepreneurs, and thought leaders share their passion in addressing the pressing problems, and share vision on futuristic technologies that will/may disrupt/impact our way of working and living. 
             <br><br>
-            This edition's focus of IEEE B-HTC will be based on the theme of SDG-12 which is meant to ensure good use of resources, improving energy 
-            efficiency, creating sustainable infrastructure, and providing access to basic services, as well as, green and decent jobs and ensuring a 
-            better quality of life for all, . The conference with a specifically focuses on:
-            on: <br><br>
+            This edition's focus of IEEE B-HTC on the theme of SDG-12 is meant to ensure good use of resources, improving energy efficiency, creating sustainable infrastructure, and providing access to basic services, as well as, green and decent jobs and ensuring a better quality of life for all. The conference specifically focuses on:  <br><br>
             <ol>
               <li>Sustainable management and use of natural resources</li>
               <li>Responsible management of chemicals and food waste</li>
               <li>Substantial reduction in waste generation</li>
               <li>Encourage companies to adopt sustainable practices and sustainability reporting</li>
             </ol>
+            BHTC 2022 will be held on <strong>October 1 & 2, 2022</strong>, at the <strong>National Institute of Advanced Studies, Indian Institute of Science Campus<strong>.
             </p>
             <div class="container" data-aos="fade-in" data-aos-delay="200 ">
               <img src="./assets/img/SDG.png" class="img-fluid">
