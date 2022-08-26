@@ -9,7 +9,7 @@
   <title>BHTC 2022</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
-    
+
   <?php include 'header.php' ?>
 </head>
 
@@ -29,7 +29,7 @@
         </div>
         <div class="carousel-item slide-4" data-bs-interval="7000">
         </div>
-        
+
       </div>
       <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -42,8 +42,8 @@
     </div>
   </section>
   <!-- End Hero -->
-  
-  
+
+
   <main id="main">
 
 
@@ -95,24 +95,22 @@
       <div class="overview-nav">
         <ul class="nav nav-tabs" id="myTab" role="tablist">
           <li class="nav-item" role="presentation">
-            <button class="nav-link active" id="home-tab" data-bs-toggle="tab" 
-            data-bs-target="#home-tab-pane" type="button" role="tab" aria-controls="home-tab-pane" 
-            aria-selected="true">Overview</button>
+            <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home-tab-pane" type="button" role="tab" aria-controls="home-tab-pane" aria-selected="true">Overview</button>
           </li>
         </ul>
-    </div>
+      </div>
       <div class="container">
         <div class="tab-content" id="myTabContent">
           <div class="tab-pane fade show active mt-5 section-title" id="home-tab-pane" role="tabpanel" aria-labelledby="home-tab" tabindex="0">
             <h2>Overview</h2>
             <p align="justify">
-            Welcome to the 2nd edition of <strong> Bangalore Humanitarian Technology Conclave (B-HTC 2022) </strong> This edition of B-HTC focuses on 
-            <strong>SDG-12: Responsible Production and Consumption</strong>. 
-            <br><br>
-            <strong>The IEEE B-HTC 2022 </strong> is a <strong>flagship</strong> event of IEEE Bangalore Section. It is held annually as part of the 
-            Humanitarian outreach program of the Section where technologists, innovators, entrepreneurs, and thought leaders share their passion in addressing the pressing problems, and share vision on futuristic technologies that will/may disrupt/impact our way of working and living. 
-            <br><br>
-            This edition's focus of IEEE B-HTC on the theme of SDG-12 is meant to ensure good use of resources, improving energy efficiency, creating sustainable infrastructure, and providing access to basic services, as well as, green and decent jobs and ensuring a better quality of life for all. The conference specifically focuses on:  <br><br>
+              Welcome to the 2nd edition of <strong> Bangalore Humanitarian Technology Conclave (B-HTC 2022) </strong> This edition of B-HTC focuses on
+              <strong>SDG-12: Responsible Production and Consumption</strong>.
+              <br><br>
+              <strong>The IEEE B-HTC 2022 </strong> is a <strong>flagship</strong> event of IEEE Bangalore Section. It is held annually as part of the
+              Humanitarian outreach program of the Section where technologists, innovators, entrepreneurs, and thought leaders share their passion in addressing the pressing problems, and share vision on futuristic technologies that will/may disrupt/impact our way of working and living.
+              <br><br>
+              This edition's focus of IEEE B-HTC on the theme of SDG-12 is meant to ensure good use of resources, improving energy efficiency, creating sustainable infrastructure, and providing access to basic services, as well as, green and decent jobs and ensuring a better quality of life for all. The conference specifically focuses on: <br><br>
             <ol>
               <li>Sustainable management and use of natural resources</li>
               <li>Responsible management of chemicals and food waste</li>
@@ -120,19 +118,19 @@
               <li>Encourage companies to adopt sustainable practices and sustainability reporting</li>
             </ol>
             BHTC 2022 will be held on <strong>October 1 & 2, 2022</strong>, at the <strong>National Institute of Advanced Studies, Indian Institute of Science Campus<strong>.
-            </p>
-            <div class="container" data-aos="fade-in" data-aos-delay="200 ">
-              <img src="./assets/img/SDG.png" class="img-fluid">
-            </div>
-            
-          </div>
+                </p>
+                <div class="container" data-aos="fade-in" data-aos-delay="200 ">
+                  <img src="./assets/img/SDG.png" class="img-fluid">
+                </div>
+
           </div>
         </div>
+      </div>
       </div>
     </section>
     <!-- End Overview Section -->
 
-    
+
 
     <!-- ======= Events Section ======= -->
     <section id="events" class="events">
@@ -196,30 +194,13 @@
       </div>
     </section>
     <!-- End Events Section -->
+    </section>
 
-    <!-- ======= Publication Section ======= -->
-   
-        <!-- <div class="row" data-aos="fade-up" data-aos-delay="100">
-          <div class="col-lg-12 d-flex justify-content-center">
-            <ul id="publication-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-c1">C1</li>
-              <li data-filter=".filter-c2">C2</li>
-              <li data-filter=".filter-c3">C3</li>
-            </ul>
-          </div>
-        </div> -->
-
-    
-    <!-- End publication Section -->
-
-    <!-- ======= OC Section ======= -->
-   
 
   </main>
   <!-- End #main -->
 
-<?php include 'footer.php' ?>
+  <?php include 'footer.php' ?>
 
 </body>
 
