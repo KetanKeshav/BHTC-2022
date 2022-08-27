@@ -34,7 +34,7 @@
                     <h2>Advisory Committee</h2>
                 </div>
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="row publication-container" data-aos="fade-up" data-aos-delay="50">
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
@@ -78,11 +78,11 @@
                     <h2>General Chair</h2>
                 </div>
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="row publication-container" data-aos="fade-up" data-aos-delay="50">
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/speaker2.png" class="img-fluid" alt="">
+                            <img src="assets/img/oc/Ashokdas.jpg" class="img-fluid" alt="">
                             <div class="publication-info">
                                 <h4>Dr Ashok Das</h4>
                             </div>
@@ -101,7 +101,7 @@
                     <h2>General Co - Chair</h2>
                 </div>
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="row publication-container" data-aos="fade-up" data-aos-delay="50">
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
@@ -124,7 +124,7 @@
                     <h2>Organizing Chair</h2>
                 </div>
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="row publication-container" data-aos="fade-up" data-aos-delay="50">
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
@@ -146,7 +146,7 @@
                     <h2>Organizing Co-Chair</h2>
                 </div>
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="row publication-container" data-aos="fade-up" data-aos-delay="50">
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
@@ -168,7 +168,7 @@
                     <h2>Organizing Secretary</h2>
                 </div>
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="row publication-container" data-aos="fade-up" data-aos-delay="50">
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
@@ -190,11 +190,11 @@
                     <h2>Program Chair</h2>
                 </div>
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="row publication-container" data-aos="fade-up" data-aos-delay="50">
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/speaker2.png" class="img-fluid" alt="">
+                            <img src="assets/img/oc/jayakrishnan.jpeg" class="img-fluid" alt="">
                             <div class="publication-info">
                                 <h4>Jayakrishnan Divakara</h4>
                             </div>
@@ -212,11 +212,11 @@
                     <h2>Program Co-Chair</h2>
                 </div>
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="row publication-container" data-aos="fade-up" data-aos-delay="50">
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/speaker2.png" class="img-fluid" alt="">
+                            <img src="assets/img/oc/subramaniam.jpg" class="img-fluid" alt="">
                             <div class="publication-info">
                                 <h4>Narayanan Subramania</h4>
                             </div>
@@ -234,11 +234,11 @@
                     <h2>Finance Chair</h2>
                 </div>
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="row publication-container" data-aos="fade-up" data-aos-delay="50">
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/Abhishek-Appaji-1.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/oc/abhisheik.jpg" class="img-fluid" alt="">
                             <div class="publication-info">
                                 <h4>Dr. Abhishek Appaji</h4>
                             </div>
@@ -256,7 +256,7 @@
                     <h2>Sponsorship Chair</h2>
                 </div>
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="row publication-container" data-aos="fade-up" data-aos-delay="50">
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
@@ -278,11 +278,11 @@
                     <h2>Project and Post Presentation Chair</h2>
                 </div>
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="row publication-container" data-aos="fade-up" data-aos-delay="50">
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/speaker2.png" class="img-fluid" alt="">
+                            <img src="assets/img/oc/bindut.jpg" class="img-fluid" alt="">
                             <div class="publication-info">
                                 <h4>Dr. Bindu Thomas</h4>
                             </div>
@@ -300,11 +300,11 @@
                     <h2>Project and Post Presentation Co-Chair</h2>
                 </div>
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="row publication-container" data-aos="fade-up" data-aos-delay="50">
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/speaker2.png" class="img-fluid" alt="">
+                            <img src="assets/img/oc/ashwini.jpg" class="img-fluid" alt="">
                             <div class="publication-info">
                                 <h4>Dr. Ashwini Appaji</h4>
                             </div>
@@ -322,9 +322,9 @@
                     <h2>Registration Chair</h2>
                 </div>
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="row publication-container" data-aos="fade-up" data-aos-delay="50">
 
-                    <div class="col-lg-4 col-md-6 publication-item">
+                    <div class="col-lg-4 col-md-6 publication-item" >
                         <div class="publication-wrap">
                             <img src="assets/img/oc/S-G-Raghavendra-Prasad.jpg" class="img-fluid" alt="">
                             <div class="publication-info">
@@ -344,7 +344,7 @@
                     <h2>ECIM, Web & IT Chairs</h2>
                 </div>
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="row publication-container" data-aos="fade-up" data-aos-delay="50">
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
@@ -376,11 +376,11 @@
                     <h2>Publicity Chair</h2>
                 </div>
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="row publication-container" data-aos="fade-up" data-aos-delay="50">
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/speaker2.png" class="img-fluid" alt="">
+                            <img src="assets/img/oc/soma.jpg" class="img-fluid" alt="">
                             <div class="publication-info">
                                 <h4>Soma Pandey</h4>
                             </div>
@@ -398,11 +398,11 @@
                     <h2>Publicity Co Chair</h2>
                 </div>
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="row publication-container" data-aos="fade-up" data-aos-delay="50">
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/speaker2.png" class="img-fluid" alt="">
+                            <img src="assets/img/oc/parameshachari.jpg" class="img-fluid" alt="">
                             <div class="publication-info">
                                 <h4>Dr. Parameshachari</h4>
                             </div>
@@ -420,11 +420,11 @@
                     <h2>Publicity Co Chair</h2>
                 </div>
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="row publication-container" data-aos="fade-up" data-aos-delay="50">
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/speaker2.png" class="img-fluid" alt="">
+                            <img src="assets/img/oc/mohit.webp" class="img-fluid" alt="">
                             <div class="publication-info">
                                 <h4>Dr. Mohit Tahiliani</h4>
                             </div>
@@ -442,11 +442,11 @@
                     <h2>Publicity Co Chair</h2>
                 </div>
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="row publication-container" data-aos="fade-up" data-aos-delay="50">
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/speaker2.png" class="img-fluid" alt="">
+                            <img src="assets/img/oc/Ravi.jpg" class="img-fluid" alt="">
                             <div class="publication-info">
                                 <h4>Prof. Ravi Hosamani</h4>
                             </div>
