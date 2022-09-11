@@ -6,7 +6,7 @@
           <ul>
             <li><a class="nav-link scrollto <?php if($page == "home") echo 'active'; ?>" href="index.php">Home</a></li>
             <li><a class="nav-link scrollto" href="#overview">About The Event</a></li>
-            <li><a class="nav-link scrollto <?php if($page == "oc") echo 'active'; ?>"  href="schedule.php">Program Schedule</a></li>
+            <li><a class="nav-link scrollto <?php if($page == "ps") echo 'active'; ?>"  href="schedule.php">Program Schedule</a></li>
             <li><a class="nav-link scrollto <?php if($page == "oc") echo 'active'; ?>" href="oc.php">Organizing Committee</a></li>
             <li class="dropdown"><a href="#"><span>Previous Edition</span> <i class="bi bi-chevron-down"></i></a>
               <ul>
@@ -15,7 +15,7 @@
               </ul>
             </li>
             <li><a class="nav-link scrollto" target="_blank" href="https://in.explara.com/e/bhtc-2022">Registration</a></li>
-            <li><a class="nav-link scrollto" href="venue.php">Venue</a></li>
+            <li><a class="nav-link scrollto <?php if($page == "ven") echo 'active'; ?>" href="venue.php">Venue</a></li>
             <li><a class="nav-link scrollto" href="#">Contact</a></li>
             
             <!-- <li class="dropdown"><a href="#"><span>Intergovernmental Processes</span> <i class="bi bi-chevron-down"></i></a>
