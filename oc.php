@@ -34,7 +34,7 @@
                     <h2>Advisory Committee</h2>
                 </div>
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="row publication-container" data-aos="fade-up" data-aos-delay="50">
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
@@ -75,33 +75,29 @@
                 <!-- General Chair -->
 
                 <div class="section-title mt-5" data-aos="fade-right">
-                    <h2>General Chair</h2>
+                    <h2>General Chair & Co Chair</h2>
                 </div>
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="row publication-container" data-aos="fade-up" data-aos-delay="50">
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/speaker2.png" class="img-fluid" alt="">
+                            <img src="assets/img/oc/Ashokdas.jpg" class="img-fluid" alt="">
                             <div class="publication-info">
-                                <h4>Dr Ashok Das</h4>
+                                <h4>Chair:Dr Ashok Das</h4>
                             </div>
                         </div>
                         <h4 class="mt-5">Dr Ashok Das</h4>
                     </div>
                     
 
-                </div>
+                
 
                 <!-- General Chair End -->
 
                 <!-- General Co - Chair -->
 
-                <div class="section-title mt-5" data-aos="fade-right">
-                    <h2>General Co - Chair</h2>
-                </div>
-
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+               
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
@@ -110,7 +106,7 @@
                                 <h4>Dr. Deepa Shenoy</h4>
                             </div>
                         </div>
-                        <h4 class="mt-5">Dr. Deepa Shenoy</h4>
+                        <h4 class="mt-5">Co Chair:Dr. Deepa Shenoy</h4>
                     </div>
                     
 
@@ -121,38 +117,32 @@
                 <!-- Organizing -->
 
                 <div class="section-title mt-5" data-aos="fade-right">
-                    <h2>Organizing Chair</h2>
+                    <h2>Organizing Chair & Co Chair</h2>
                 </div>
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="row publication-container" data-aos="fade-up" data-aos-delay="50">
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
                             <img src="assets/img/oc/anandi.jpeg" class="img-fluid" alt="">
                             <div class="publication-info">
-                                <h4>Anandi Giridharan</h4>
+                                <h4>Chair:Anandi Giridharan</h4>
                             </div>
                         </div>
                         <h4 class="mt-5">Anandi Giridharan</h4>
                     </div>
 
-                </div>
+                
 
                 <!-- Organizing End -->
 
                 <!-- Organizing Co-Chair -->
 
-                <div class="section-title mt-5" data-aos="fade-right">
-                    <h2>Organizing Co-Chair</h2>
-                </div>
-
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
-
-                    <div class="col-lg-4 col-md-6 publication-item">
+                        <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
                             <img src="assets/img/oc/Chandrakanta-Kumar.jpg" class="img-fluid" alt="">
                             <div class="publication-info">
-                                <h4>Dr. Chandrakanta Kumar</h4>
+                                <h4>Co Chair:Dr. Chandrakanta Kumar</h4>
                             </div>
                         </div>
                         <h4 class="mt-5">Dr. Chandrakanta Kumar</h4>
@@ -168,7 +158,7 @@
                     <h2>Organizing Secretary</h2>
                 </div>
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="row publication-container" data-aos="fade-up" data-aos-delay="50">
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
@@ -187,38 +177,34 @@
                 <!-- General Co - Chair -->
 
                 <div class="section-title mt-5" data-aos="fade-right">
-                    <h2>Program Chair</h2>
+                    <h2>Program Chair & Co Chair</h2>
                 </div>
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="row publication-container" data-aos="fade-up" data-aos-delay="50">
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/speaker2.png" class="img-fluid" alt="">
+                            <img src="assets/img/oc/jayakrishnan.jpeg" class="img-fluid" alt="">
                             <div class="publication-info">
-                                <h4>Jayakrishnan Divakara</h4>
+                                <h4>Chair:Jayakrishnan Divakara</h4>
                             </div>
                         </div>
                         <h4 class="mt-5">Jayakrishnan Divakara</h4>
                     </div>
 
-                </div>
+               
 
                 <!-- General Co - Chair End -->
 
                 <!-- General Co - Chair -->
 
-                <div class="section-title mt-5" data-aos="fade-right">
-                    <h2>Program Co-Chair</h2>
-                </div>
-
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+              
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/speaker2.png" class="img-fluid" alt="">
+                            <img src="assets/img/oc/subramaniam.jpg" class="img-fluid" alt="">
                             <div class="publication-info">
-                                <h4>Narayanan Subramania</h4>
+                                <h4>Co Chair:Narayanan Subramania</h4>
                             </div>
                         </div>
                         <h4 class="mt-5">Narayanan Subramania</h4>
@@ -234,11 +220,11 @@
                     <h2>Finance Chair</h2>
                 </div>
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="row publication-container" data-aos="fade-up" data-aos-delay="50">
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/Abhishek-Appaji-1.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/oc/abhisheik.jpg" class="img-fluid" alt="">
                             <div class="publication-info">
                                 <h4>Dr. Abhishek Appaji</h4>
                             </div>
@@ -256,7 +242,7 @@
                     <h2>Sponsorship Chair</h2>
                 </div>
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="row publication-container" data-aos="fade-up" data-aos-delay="50">
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
@@ -275,38 +261,32 @@
                 <!-- General Co - Chair -->
 
                 <div class="section-title mt-5" data-aos="fade-right">
-                    <h2>Project and Post Presentation Chair</h2>
+                    <h2>Project and Post Presentation Chair & Co Chair</h2>
                 </div>
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="row publication-container" data-aos="fade-up" data-aos-delay="50">
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/speaker2.png" class="img-fluid" alt="">
+                            <img src="assets/img/oc/bindut.jpg" class="img-fluid" alt="">
                             <div class="publication-info">
-                                <h4>Dr. Bindu Thomas</h4>
+                                <h4>Chair:Dr. Bindu Thomas</h4>
                             </div>
                         </div>
                         <h4 class="mt-5">Dr. Bindu Thomas</h4>
                     </div>
 
-                </div>
+                
 
                 <!-- General Co - Chair End -->
 
                 <!-- General Co - Chair -->
 
-                <div class="section-title mt-5" data-aos="fade-right">
-                    <h2>Project and Post Presentation Co-Chair</h2>
-                </div>
-
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
-
-                    <div class="col-lg-4 col-md-6 publication-item">
+                        <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/speaker2.png" class="img-fluid" alt="">
+                            <img src="assets/img/oc/ashwini.jpg" class="img-fluid" alt="">
                             <div class="publication-info">
-                                <h4>Dr. Ashwini Appaji</h4>
+                                <h4>Co Chair:Dr. Ashwini Appaji</h4>
                             </div>
                         </div>
                         <h4 class="mt-5">Dr. Ashwini Appaji</h4>
@@ -322,9 +302,9 @@
                     <h2>Registration Chair</h2>
                 </div>
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="row publication-container" data-aos="fade-up" data-aos-delay="50">
 
-                    <div class="col-lg-4 col-md-6 publication-item">
+                    <div class="col-lg-4 col-md-6 publication-item" >
                         <div class="publication-wrap">
                             <img src="assets/img/oc/S-G-Raghavendra-Prasad.jpg" class="img-fluid" alt="">
                             <div class="publication-info">
@@ -344,7 +324,7 @@
                     <h2>ECIM, Web & IT Chairs</h2>
                 </div>
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="row publication-container" data-aos="fade-up" data-aos-delay="50">
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
@@ -376,11 +356,11 @@
                     <h2>Publicity Chair</h2>
                 </div>
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="row publication-container" data-aos="fade-up" data-aos-delay="50">
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/speaker2.png" class="img-fluid" alt="">
+                            <img src="assets/img/oc/soma.jpg" class="img-fluid" alt="">
                             <div class="publication-info">
                                 <h4>Soma Pandey</h4>
                             </div>
@@ -395,14 +375,14 @@
                 <!-- General Co - Chair -->
 
                 <div class="section-title mt-5" data-aos="fade-right">
-                    <h2>Publicity Co Chair</h2>
+                    <h2>Publicity Co Chairs</h2>
                 </div>
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="row publication-container" data-aos="fade-up" data-aos-delay="50">
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/speaker2.png" class="img-fluid" alt="">
+                            <img src="assets/img/oc/parameshachari.jpg" class="img-fluid" width=240 alt="">
                             <div class="publication-info">
                                 <h4>Dr. Parameshachari</h4>
                             </div>
@@ -410,21 +390,17 @@
                         <h4 class="mt-5">Dr. Parameshachari</h4>
                     </div>
 
-                </div>
+                
 
                 <!-- General Co - Chair End -->
 
                 <!-- General Co - Chair -->
 
-                <div class="section-title mt-5" data-aos="fade-right">
-                    <h2>Publicity Co Chair</h2>
-                </div>
-
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/speaker2.png" class="img-fluid" alt="">
+                            <img src="assets/img/oc/mohit.webp" class="img-fluid" width=160px alt="">
                             <div class="publication-info">
                                 <h4>Dr. Mohit Tahiliani</h4>
                             </div>
@@ -432,21 +408,17 @@
                         <h4 class="mt-5">Dr. Mohit Tahiliani</h4>
                     </div>
 
-                </div>
+                
 
                 <!-- General Co - Chair End -->
 
                 <!-- General Co - Chair -->
 
-                <div class="section-title mt-5" data-aos="fade-right">
-                    <h2>Publicity Co Chair</h2>
-                </div>
-
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+               
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/speaker2.png" class="img-fluid" alt="">
+                            <img src="assets/img/oc/Ravi.jpg" class="img-fluid" alt="">
                             <div class="publication-info">
                                 <h4>Prof. Ravi Hosamani</h4>
                             </div>
