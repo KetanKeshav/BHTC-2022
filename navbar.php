@@ -15,7 +15,8 @@
                 <li><a href="https://bhtc.ieeebangalore.org/">BHTC 2020</a></li>
               </ul>
             </li>
-            <li><a class="nav-link scrollto" href="#">Registration</a></li>
+            <li><a class="nav-link scrollto" target="_blank" href="https://in.explara.com/e/bhtc-2022">Registration</a></li>
+            <li><a class="nav-link scrollto" href="venue.php">Venue</a></li>
             <li><a class="nav-link scrollto" href="#">Contact</a></li>
             
             <!-- <li class="dropdown"><a href="#"><span>Intergovernmental Processes</span> <i class="bi bi-chevron-down"></i></a>
