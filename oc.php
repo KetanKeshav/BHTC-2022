@@ -124,7 +124,7 @@
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/anandi.jpeg" class="img-fluid" alt="">
+                            <img src="assets/img/oc/anandi.svg" class="img-fluid" alt="">
                             <div class="publication-info">
                                 <h4>Chair:Anandi Giridharan</h4>
                             </div>
@@ -184,7 +184,7 @@
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/jayakrishnan.jpeg" class="img-fluid" alt="">
+                            <img src="assets/img/oc/jayakrishnan.svg" class="img-fluid" alt="">
                             <div class="publication-info">
                                 <h4>Chair:Jayakrishnan Divakara</h4>
                             </div>
@@ -284,7 +284,7 @@
 
                         <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/ashwini.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/oc/ashwini.svg" class="img-fluid" alt="">
                             <div class="publication-info">
                                 <h4>Co Chair:Dr. Ashwini Appaji</h4>
                             </div>
@@ -382,7 +382,7 @@
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/parameshachari.jpg" class="img-fluid" width=240 alt="">
+                            <img src="assets/img/oc/parameshachari.svg" class="img-fluid"  alt="">
                             <div class="publication-info">
                                 <h4>Dr. Parameshachari</h4>
                             </div>
@@ -400,7 +400,7 @@
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/mohit.webp" class="img-fluid" width=160px alt="">
+                            <img src="assets/img/oc/mohit.svg" class="img-fluid"  alt="">
                             <div class="publication-info">
                                 <h4>Dr. Mohit Tahiliani</h4>
                             </div>
@@ -418,7 +418,7 @@
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/Ravi.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/oc/ravi.svg" class="img-fluid" alt="">
                             <div class="publication-info">
                                 <h4>Prof. Ravi Hosamani</h4>
                             </div>
