@@ -64,13 +64,13 @@
                                 <td>9:05 - 9:10AM</td>
                                 <td></td>
                                 <td></td>
-                                <td>Conference Overview - Conference General Chair		</td>
+                                <td>Conference Overview - Conference General Chair	Dr Ashok Das	</td>
                             </tr>
                             <tr>
                                 <td>9:10 - 9:30 AM</td>
                                 <td></td>
                                 <td></td>
-                                <td>Inaugural Address: Vandita Sharma, Chief Secretary GoK</td>
+                                <td>Inaugural Address: TBD</td>
                             </tr>
                             <tr>
                                 <td>9.30 - 9.40 AM</td>
@@ -82,7 +82,7 @@
                                 <td>9:50 - 10:10 AM</td>
                                 <td></td>
                                 <td></td>
-                                <td>Plenary Talk: Gaurav Gupta IAS, Additional Chief Secretary and BBMP Commisioner</td>
+                                <td>TBD</td>
                             </tr>
                             <tr>
                                 <td>10.10 - 10.30 AM</td>
@@ -98,22 +98,26 @@
                             </tr>
                             <tr class="table-primary">
                                 <td>11:30 AM-1:00 PM</td>
-                                <td>Anandi G. / Supriya/Divya</td>
+                                <td>Anandi G. / Divya M G</td>
                                 <td>Session 2</td>
-                                <td>Theme: Management and Use of Natural Resources (Responsible Production)</td>
+                                <td>Making our Villages Smart and Sustainable - Dr. Ashok Das, Founder SunMoksha</td>
                             </tr>
                             <tr>
-                                <td></td>
+                            <td>11:30 AM-11:35 PM</td>
                                 <td>Chair</td>
                                 <td></td>
                                 <td>Opening Remarks: Plenary Section Chair - Smt. Anandi Giridharan	</td>
                             </tr>
                             <tr>
-                                <td></td>
+                            <td>11:35 AM-12:15 PM</td>
                                 <td>Plenary Speaker</td>
                                 <td></td>
                                 <td>Dr. T.V. Ramachandra Energy & Wetlands Research Group ,  Centre for Ecological Sciences NEW BIOSCIENCE BUILDING, IISc</td>
                             </tr>
+                            <tr>
+                            <td>12:15 PM-1:00 PM</td>
+                                <td>Panel Discussion</td>
+                            </tr>    
                             <tr>
                                 <td></td>
                                 <td>Panelist 1</td>
@@ -138,6 +142,13 @@
                                 <td></td>
                                 <td>Dr. Gopal Naik, IIM Bangalore</td>
                             </tr>
+                            <tr>
+                            <td></td>
+                                <td>Moderator</td>
+                                <td></td>
+                                <td>Dr. T.V. Ramachandra </td>
+                            </tr>    
+                            <tr>
                             
                             <tr class="table-danger">
                                 <td>1:00-2:00 PM</td>
@@ -152,7 +163,7 @@
                                 <td>Theme: Responsible Consumption	</td>
                             </tr>
                             <tr>
-                                <td></td>
+                            <td>02:00 PM-02:05 PM</td>
                                 <td>Chair</td>
                                 <td></td>
                                 <td>Opening Remarks: Plenary Section Chair - Prof. N Sriraam, MSRIT		</td>
@@ -161,31 +172,31 @@
                                 <td>2:05-2:20 PM</td>
                                 <td>Plenary Speaker</td>
                                 <td></td>
-                                <td>To be updated - Mr Gaurav Gupta or ITC	</td>
+                                <td>Prabhash Chandra Ray, Conservation of Natural Resources:Opportunities n Challenges</td>
                             </tr>
                             <tr>
                                 <td>2.20 - 2.40 PM</td>
-                                <td>Panelist 1		</td>
+                                <td>Lightening Talk-2		</td>
                                 <td></td>
-                                <td>Scientific E Waste  management  - PravinJith - MD Ecoparadigm; Member, Technical committee, BSWML, Member Monitoring Committee, GWMC</td>
+                                <td>Impact of Climate change on Consumption and Sustainable solutions   - PravinJith - MD Ecoparadigm; Member, Technical committee, BSWML, Member Monitoring Committee, GWMC</td>
                             </tr>
                             <tr>
                                 <td>2.40 - 3.00 PM</td>
-                                <td>Panelist 2</td>
+                                <td>Lightening Talk-3</td>
                                 <td></td>
                                 <td>To be updated   ReEpresentative from ITC</td>
                             </tr>
                             <tr>
                                 <td>3.00 - 3.20 PM	</td>
-                                <td>Panelist 3</td>
+                                <td>Lightening Talk-4</td>
                                 <td></td>
-                                <td>Medical Waste Management -  Director at Ramaiah International Centre for Public Health Innovations</td>
+                                <td>Medical Waste Management -  Dr. Ramachandra Kamath Associate Dean Ramaiah Medical Hospital</td>
                             </tr>
                             <tr>
                                 <td>3.20 - 3.40 PM	</td>
-                                <td>Address from sponsor - Dozee</td>
+                                <td>Lightening Talk-5</td>
                                 <td></td>
-                                <td>Mr Romith Shankar - Dozee	</td>
+                                <td>To Be Decided	</td>
                             </tr>
                             <tr class="table-danger">
                                 <td>3:40-4:00 PM</td>
@@ -200,42 +211,53 @@
                                 <td>Theme: Circular Economy </td>
                             </tr>
                             <tr>
-                                <td></td>
+                            <td>04:00 -4:05 PM</td>
                                 <td>Chair</td>
                                 <td></td>
                                 <td>Opening Remarks Plenary Session Chair - Dr. Alok De</td>
                             </tr>
                             <tr>
-                                <td></td>
+                            <td>04:00 -4:45 PM</td>
                                 <td>Plenary Speaker</td>
                                 <td></td>
                                 <td></td>
                             </tr>
                             <tr>
-                                <td></td>
-                                <td>Paneiist 1		</td>
-                                <td></td>
-                                <td>    Taran Chabbra, Neemans				</td>
+                            <td>04:45 -5:30 PM</td>
+                                <td>Panel Discussion</td>
+                                
+                                
                             </tr>
                             <tr>
+                            <td></td>
+                                
+                                <td>Panelist 1		</td>
+                                <td></td>
+                                <td>   Smt. P. Bineesha, Director, International Institute of Waste Management (IIWM)				</td>
+                            </tr>
+                            <tr>
+                            <td></td>
                                 <td></td>
                                 <td>	Panelist 2		</td>
                                 <td></td>
-                                <td>    Santosh Kumar, Founder Li-Circle				</td>
+                                <td>   Iram Maimuna, Founder E-Waste Social 				</td>
                             </tr>
                             <tr>
+                            <td></td>
                                 <td></td>
                                 <td>	Panelist 3		</td>
                                 <td></td>
-                                <td>    Smt. P. Bineesha, Director, International Institute of Waste Management (IIWM)				</td>
+                                <td>    Kavya Madappa, Bluecat paper				</td>
                             </tr>
                             <tr>
+                            <td></td>
                                 <td></td>
                                 <td>	Panelist 4		</td>
                                 <td></td>
-                                <td>    Iram Maimuna, Founder E-Waste Social				</td>
+                                <td>    Santosh Kumar, Founder Li-Circle			</td>
                             </tr>
                             <tr>
+                            <td></td>
                                 <td></td>
                                 <td>	Moderator		</td>
                                 <td></td>
@@ -246,37 +268,43 @@
                                 <td>10:00-11:30 AM</td>
                                 <td>Jayakrishnan D/ Student Leader/Navin</td>
                                 <td>Session 5</td>
-                                <td>Theme: Gandhian Thoughts on Sustainability and Self Reliance</td>
+                                <td>Theme: Relevance of Gandhian Thoughts on Sustainability and Self Reliance in current times</td>
                             </tr>
                             <tr>
+                            <td>10:00-10:20 AM</td>
+                                <td>Plenary Speaker 1		</td>
                                 <td></td>
-                                <td>Chair		</td>
-                                <td></td>
-                                <td>Opening Remarks by Plenary Chair - Jayakrishnan Divakaran				</td>
+                                <td>Sustainability and Grassroot Innovations in India -  Prof. Anil Gupta, IIM Ahmedabad, Founder, National Innovation Foundation			</td>
                             </tr>
                             <tr>
+                            <td>10:20-10:40 AM</td>
+                                <td>Plenary Speaker 2		</td>
                                 <td></td>
-                                <td>Plenary Speaker		</td>
-                                <td></td>
-                                <td>Relevance of Gandhian thoughts in the 21st century: Dr. Madhura Swaminathan, Chairman MSSRF and head Economic Analysis Wing, Indian Statistical Institute, Bengaluru				</td>
+                                <td>India's Self Reliance in Space - Dr.Uma Maheswaran, Head of Human Flight Mission, ISRO				</td>
+                            </tr>
+                            <tr>
+                            <td>10:40-11:30 AM</td>
+                                <td>Panel Discussion</td>
+                                
+                               
                             </tr>
                             <tr>
                                 <td></td>
                                 <td>Paneiist 1</td>
                                 <td></td>
-                                <td>NATURE inspired, low energy demand  dwellings:  Stanly George, MD of Good Earth and Centre for Environment and Sustainability, Gandhi School of Natural Farming				</td>
+                                <td>TBD		</td>
                             </tr>
                             <tr>
                                 <td></td>
                                 <td>Panelist 2		</td>
                                 <td></td>
-                                <td>Before we run out of water  - Shri. Vishwanath Srikantaih: Zen Rainman, National Water Expert - Confirmed				</td>
+                                <td>Reviving traditional wells and water bodies  - Shri. Vishwanath Srikantiai: National Water Expert, MD Biome Environmental Trust				</td>
                             </tr>
                             <tr>
                                 <td></td>
                                 <td>Panelist 3		</td>
                                 <td></td>
-                                <td>Pollution, Climate Change and Clean Energy transition - Dr. Jay Asundi, Executive Director - Centre for Science, Technolgy, Engineering and Policy				</td>
+                                <td>TBD	</td>
                             </tr>
                             <tr>
                                 <td></td>
@@ -294,7 +322,7 @@
                                 <td>12:00-1:30PM	</td>
                                 <td>Bindu Thomas / Ashwini / Ravi / Raghavendra/ Parameshachari	</td>
                                 <td>Session 5	</td>
-                                <td>Theme: Project Presentations & Posters		</td>
+                                <td>Theme: Project Presentations & Posters SDG 12		</td>
                             </tr>
                             <tr class="table-primary">
                                 <td></td>
@@ -308,7 +336,7 @@
                             </tr>
                             <tr class="table-primary">
                                 <td>2:30-4:00 PM</td>
-                                <td>Soma Pandey / Mohit</td>
+                                <td>Soma Pandey / Mohit Tahilani</td>
                                 <td>Session 6</td>
                                 <td>Valedictory And Awards Session</td>
                             </tr>
@@ -338,9 +366,15 @@
                             </tr>
                             <tr>
                                 <td></td>
-                                <td>VOT</td>
+                                <td>Feedback From Participants</td>
                                 <td></td>
                                 <td></td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td>Vote Of Thanks</td>
+                               
                             </tr>
                             <tr class="table-danger">
                                 <td>4:00-5:00 PM</td>
