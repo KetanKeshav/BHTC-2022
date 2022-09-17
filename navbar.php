@@ -14,7 +14,7 @@
                 <li><a href="https://bhtc.ieeebangalore.org/">BHTC 2020</a></li>
               </ul>
             </li>
-            <li><a class="nav-link scrollto" target="_blank" href="https://in.explara.com/e/bhtc-2022">Registration</a></li>
+            <li><a class="nav-link scrollto" target="_blank" href="registration.php">Registration</a></li>
             <li><a class="nav-link scrollto <?php if($page == "ven") echo 'active'; ?>" href="venue.php">Venue</a></li>
             <li><a class="nav-link scrollto" href="#">Contact</a></li>
             
