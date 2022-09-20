@@ -8,6 +8,7 @@
             <li><a class="nav-link scrollto" href="#overview">About The Event</a></li>
             <li><a class="nav-link scrollto <?php if($page == "ps") echo 'active'; ?>"  href="schedule.php">Program Schedule</a></li>
             <li><a class="nav-link scrollto <?php if($page == "oc") echo 'active'; ?>" href="oc.php">Organizing Committee</a></li>
+            <li><a class="nav-link scrollto <?php if($page == "speakers") echo 'active'; ?>" href="speakers.php">Speakers</a></li>
             <li class="dropdown"><a href="#"><span>Previous Edition</span> <i class="bi bi-chevron-down"></i></a>
               <ul>
                 <li><a href="https://attend.ieee.org/r10htc-2021/">R10 HTC</a></li>
