@@ -58,7 +58,7 @@
                                 <td>9:00 - 9:05AM</td>
                                 <td></td>
                                 <td></td>
-                                <td>Welcome by Emcee</td>
+                                <td>Welcome by Emcee, Dr Ashwini Appaji</td>
                             </tr>
                             <tr>
                                 <td>9:05 - 9:10AM</td>
@@ -76,19 +76,19 @@
                                 <td>9.30 - 9.40 AM</td>
                                 <td></td>
                                 <td></td>
-                                <td>Presidential Address: Prof. Deepa Shenoy, Chair IEEE Bangalore Section	</td>
+                                <td>Inaugural Address: Nation Building through private sector- Dr. R.Gopalakrishnan, former Executive Director, Tata Sons</td>
                             </tr>
                             <tr>
                                 <td>9:50 - 10:10 AM</td>
                                 <td></td>
                                 <td></td>
-                                <td>TBD</td>
+                                <td>Inaugural Address: Nation Building through private sector- Dr. R.Gopalakrishnan, former Executive Director, Tata Sons</td>
                             </tr>
                             <tr>
                                 <td>10.10 - 10.30 AM</td>
                                 <td></td>
                                 <td></td>
-                                <td>Felicitation: Sampath Veeraraghavan, Global Chair - HAC</td>
+                                <td>Vote of Thanks - Dr. P Deepa Shenoy, Chair IEEE Bangalore Section</td>
                             </tr>
                             <tr class="table-danger">
                                 <td>11:00-11:30 AM</td>
