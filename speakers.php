@@ -103,7 +103,7 @@
           
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="member" data-aos="fade-up">
-              <div class="pic"><img src="assets/img/Speakers/bineesha.jpg" alt=""></div>
+              <div class="pic"><img src="assets/img/speakers/bineesha.jpg" alt=""></div>
               <h4>P. Bineesha</h4>
               <span>Executive Director- IIWM</span>
               <div class="social">
@@ -128,7 +128,7 @@
                 <div class="modal-body">
                   <div class="container-fluid">
                     <div class="row">
-                      <div class="col-md-4"><img src="assets/img/Speakers/bineesha.jpg" style="max-width: 200px;" alt="">
+                      <div class="col-md-4"><img src="assets/img/speakers/bineesha.jpg" style="max-width: 200px;" alt="">
                       <div class="social">
                         <a href="https://www.linkedin.com/in/bineesha-p/?originalSubdomain=in"target=_blank><i class="bi bi-linkedin mt-2" style="font-size: 25px;"></i></a>
                       </div>
@@ -154,7 +154,7 @@ Conceiving innovative projects by identifying the problems and finding appropria
           
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="member" data-aos="fade-up">
-              <div class="pic"><img src="assets/img/Speakers/iram.png" alt=""></div>
+              <div class="pic"><img src="assets/img/speakers/iram.png" alt=""></div>
               <h4>Iram Maimuna</h4>
               <span>Founder, E-Waste Social</span>
               <div class="social">
@@ -179,7 +179,7 @@ Conceiving innovative projects by identifying the problems and finding appropria
                 <div class="modal-body">
                   <div class="container-fluid">
                     <div class="row">
-                      <div class="col-md-4"><img src="assets/img/Speakers/iram.png" style="max-width: 200px;" alt="">
+                      <div class="col-md-4"><img src="assets/img/speakers/iram.png" style="max-width: 200px;" alt="">
                       <div class="social">
                         <a href="https://www.linkedin.com/in/%E2%99%BB%EF%B8%8Firam-maimuna-578639136/"target=_blank><i class="bi bi-linkedin mt-2" style="font-size: 25px;"></i></a>
                       </div>
@@ -204,7 +204,7 @@ She is also part of UN women and Empretec capacity building programme for entrep
           
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="member" data-aos="fade-up">
-              <div class="pic"><img src="assets/img/Speakers/kavya.png" alt=""></div>
+              <div class="pic"><img src="assets/img/speakers/kavya.png" alt=""></div>
               <h4>Kavya Madappa</h4>
               <span>Bluecat Paper</span>
               <div class="social">
@@ -229,7 +229,7 @@ She is also part of UN women and Empretec capacity building programme for entrep
                 <div class="modal-body">
                   <div class="container-fluid">
                     <div class="row">
-                      <div class="col-md-4"><img src="assets/img/Speakers/kavya.png" style="max-width: 200px;" alt="">
+                      <div class="col-md-4"><img src="assets/img/speakers/kavya.png" style="max-width: 200px;" alt="">
                       <div class="social">
                         <a href="https://www.linkedin.com/in/kavya-madappa-3ba4349/"target=_blank><i class="bi bi-linkedin mt-2" style="font-size: 25px;"></i></a>
                       </div>
@@ -297,7 +297,7 @@ His passion for green-tech, He's always  in a campaign for the eco-friendly worl
           
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="member" data-aos="fade-up">
-              <div class="pic"><img src="assets/img/Speakers/goutam.png" alt="" ></div>
+              <div class="pic"><img src="assets/img/speakers/goutam.png" alt="" ></div>
               <h4>Goutam Surana</h4>
               <span>Founder - ECO 365</span>
               <div class="social">
@@ -322,7 +322,7 @@ His passion for green-tech, He's always  in a campaign for the eco-friendly worl
                 <div class="modal-body">
                   <div class="container-fluid">
                     <div class="row">
-                      <div class="col-md-4"><img src="assets/img/Speakers/goutam.png" style="max-width: 200px;" alt="">
+                      <div class="col-md-4"><img src="assets/img/speakers/goutam.png" style="max-width: 200px;" alt="">
                       <div class="social">
                         <a href="https://www.linkedin.com/in/goutamsurana/"target=_blank><i class="bi bi-linkedin mt-2" style="font-size: 25px;"></i></a>
                       </div>
@@ -343,7 +343,7 @@ At 'Eco365', they provide innovative efficient alternative solutions to reduce w
           
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="member" data-aos="fade-up">
-              <div class="pic"><img src="assets/img/Speakers/ramachandra.png" alt=""></div>
+              <div class="pic"><img src="assets/img/speakers/ramachandra.png" alt=""></div>
               <h4>Dr Ramachandra Kamath</h4>
               <span>Associate Dean Ramaiah Medical Hospital </span>
               <div class="social">
@@ -368,7 +368,7 @@ At 'Eco365', they provide innovative efficient alternative solutions to reduce w
                 <div class="modal-body">
                   <div class="container-fluid">
                     <div class="row">
-                      <div class="col-md-4"><img src="assets/img/Speakers/ramachandra.png" style="max-width: 200px;" alt="">
+                      <div class="col-md-4"><img src="assets/img/speakers/ramachandra.png" style="max-width: 200px;" alt="">
                       <div class="social">
                         <a href="https://www.linkedin.com/in/dr-ramachandra-kamath-23458a2b/"target=_blank><i class="bi bi-linkedin mt-2" style="font-size: 25px;"></i></a>
                       </div>
