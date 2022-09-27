@@ -43,7 +43,7 @@
                         <tbody>
                             <tr class="table-primary">
                                 <th scope="row" rowspan="37" style="vertical-align: center;">October 1, 2022</th>
-                                <td>8.00-9.00 AM	</td>
+                                <td>8.00-9.00 AM </td>
                                 <td></td>
                                 <td>Session 1</td>
                                 <td>Registration & Virtual Networking</td>
@@ -64,7 +64,7 @@
                                 <td>9:05 - 9:10AM</td>
                                 <td></td>
                                 <td></td>
-                                <td>Conference Overview - Conference General Chair	Dr Ashok Das	</td>
+                                <td>Conference Overview - Conference General Chair Dr Ashok Das </td>
                             </tr>
                             <tr>
                                 <td>9:10 - 9:30 AM</td>
@@ -100,26 +100,26 @@
                                 <td>11:30 AM-1:00 PM</td>
                                 <td>Anandi G. <br> Divya M G</td>
                                 <td>Session 2</td>
-                                <td>Theme: Management and Use of Natural Resources (Responsible Production)	</td>
+                                <td>Theme: Management and Use of Natural Resources (Responsible Production) </td>
                             </tr>
                             <tr>
-                            <td>11:30 AM-11:35 PM</td>
+                                <td>11:30 AM-11:35 PM</td>
                                 <td>Chair</td>
                                 <td></td>
-                                <td>Opening Remarks: Plenary Section Chair - Smt. Anandi Giridharan	</td>
+                                <td>Opening Remarks: Plenary Section Chair - Smt. Anandi Giridharan </td>
                             </tr>
                             <tr>
-                            <td>11:35 AM-12:15 PM</td>
+                                <td>11:35 AM-12:15 PM</td>
                                 <td>Plenary Speaker</td>
                                 <td></td>
-                                <td>Dr. T.V. Ramachandra Energy & Wetlands Research Group ,  Centre for Ecological Sciences NEW BIOSCIENCE BUILDING, IISc</td>
+                                <td>Dr. T.V. Ramachandra Energy & Wetlands Research Group , Centre for Ecological Sciences NEW BIOSCIENCE BUILDING, IISc</td>
                             </tr>
                             <tr>
-                            <td>12:15 PM-1:00 PM</td>
+                                <td>12:15 PM-1:00 PM</td>
                                 <td>Panel Discussion</td>
                                 <td></td>
                                 <td></td>
-                            </tr>    
+                            </tr>
                             <tr>
                                 <td></td>
                                 <td>Panelist 1</td>
@@ -130,28 +130,28 @@
                                 <td></td>
                                 <td>Panelist 2</td>
                                 <td></td>
-                                <td>Dr Inayathulla Bangalore University, Integrated water resources / Watershed Management, Centre for Water Resources, Bangalore University</td>				
+                                <td>Dr Inayathulla Bangalore University, Integrated water resources / Watershed Management, Centre for Water Resources, Bangalore University</td>
                             </tr>
                             <tr>
                                 <td></td>
                                 <td>Panelist 3</td>
                                 <td></td>
-                                <td>Dr. Ashok Hanjagi, Department of Geography, Bangalore University</td>		
+                                <td>Dr. Ashok Hanjagi, Department of Geography, Bangalore University</td>
                             </tr>
                             <tr>
                                 <td></td>
                                 <td>Panelist 4</td>
                                 <td></td>
-                                <td>Dr. Gopal Naik, IIM Bangalore  - Water  Supply and consumption</td>			
+                                <td>Dr. Gopal Naik, IIM Bangalore - Water Supply and consumption</td>
                             </tr>
                             <tr>
-                            <td></td>
+                                <td></td>
                                 <td>Moderator</td>
                                 <td></td>
                                 <td>Dr. T.V. Ramachandra </td>
-                            </tr>    
+                            </tr>
                             <tr>
-                            
+
                             <tr class="table-danger">
                                 <td>1:00-2:00 PM</td>
                                 <td></td>
@@ -159,26 +159,26 @@
                                 <td>Lunch Break and Networking</td>
                             </tr>
                             <tr class="table-primary">
-                                <td>2:00-3:40 PM	</td>
+                                <td>2:00-3:40 PM </td>
                                 <td>Sriraam Natarajan<br>Ashwini Holla<br>Abhishek Appaji</td>
-                                <td>Session 3	</td>
-                                <td>Theme: Responsible Consumption	</td>
+                                <td>Session 3 </td>
+                                <td>Theme: Responsible Consumption </td>
                             </tr>
                             <tr>
-                            <td>02:00 PM-02:05 PM</td>
+                                <td>02:00 PM-02:05 PM</td>
                                 <td>Chair</td>
                                 <td></td>
-                                <td>Opening Remarks: Session Chair - Prof. N Sriraam, Head R&D, professor Med Electronics MSRIT, Chair IEEE EMBS,  EAC, Banake section.</td>	
+                                <td>Opening Remarks: Session Chair - Prof. N Sriraam, Head R&D, professor Med Electronics MSRIT, Chair IEEE EMBS, EAC, Banake section.</td>
                             </tr>
                             <tr>
                                 <td>2:05-2:20 PM</td>
                                 <td>Plenary Speaker</td>
                                 <td></td>
-                                <td>Prabhash Chandra Ray, Conservation of Natural Resources:Opportunities n Challenges</td>			
+                                <td>Prabhash Chandra Ray, Conservation of Natural Resources:Opportunities n Challenges</td>
                             </tr>
                             <tr>
                                 <td>2.20 - 2.40 PM</td>
-                                <td>Lightening Talk-2		</td>
+                                <td>Lightening Talk-2 </td>
                                 <td></td>
                                 <td>PravinJith - MD Ecoparadigm; Member, Technical committee, BSWML, Member Monitoring Committee, GWMC - Impact of Climate change on Consumption and Sustainable solutions </td>
                             </tr>
@@ -186,19 +186,19 @@
                                 <td>2.40 - 3.00 PM</td>
                                 <td>Lightening Talk-3</td>
                                 <td></td>
-                                <td>Goutam Surana, Founder - Director, Eco 365 - Latest trend related to sustainable packaging and connect to SDG -12</td>			
+                                <td>Goutam Surana, Founder - Director, Eco 365 - Latest trend related to sustainable packaging and connect to SDG -12</td>
                             </tr>
                             <tr>
-                                <td>3.00 - 3.20 PM	</td>
+                                <td>3.00 - 3.20 PM </td>
                                 <td>Lightening Talk-4</td>
                                 <td></td>
-                                <td>Dr. Ramachandra Kamath Associate Dean Ramaiah Medical Hospital - Medical Waste Management</td>		
+                                <td>Dr. Ramachandra Kamath Associate Dean Ramaiah Medical Hospital - Medical Waste Management</td>
                             </tr>
                             <tr>
-                                <td>3.20 - 3.40 PM	</td>
+                                <td>3.20 - 3.40 PM </td>
                                 <td>Lightening Talk-5</td>
                                 <td></td>
-                                <td>Dr Adil Khan Yusuf Zai, Product Strategy Manager, Dozee	</td>		
+                                <td>Dr Adil Khan Yusuf Zai, Product Strategy Manager, Dozee </td>
                             </tr>
                             <tr class="table-danger">
                                 <td>3:40-4:00 PM</td>
@@ -207,9 +207,9 @@
                                 <td>Tea Break and Networking</td>
                             </tr>
                             <tr class="table-primary">
-                                <td>4:00-5:30PM	</td>
+                                <td>4:00-5:30PM </td>
                                 <td>Aloknath De <br> Chengappa Munjandira</td>
-                                <td>Session 4	</td>
+                                <td>Session 4 </td>
                                 <td>Theme: Circular Economy </td>
                             </tr>
                             <tr>
@@ -228,7 +228,7 @@
                                 <td>04:45 -5:30 PM</td>
                                 <td>Panel Discussion</td>
                                 <td></td>
-                                <td></td>               
+                                <td></td>
                             </tr>
                             <tr>
                                 <td></td>
@@ -261,53 +261,59 @@
                                 <td>Dr. Aloknath De</td>
                             </tr>
                             <tr class="table-primary">
-                                <th scope="row" rowspan="18" style="vertical-align: center;">October 2, 2022</th>
+                                <th scope="row" rowspan="23" style="vertical-align: center;">October 2, 2022</th>
                                 <td>10:00-11:30 AM</td>
-                                <td>Jayakrishnan D/ Student Leader/Navin</td>
+                                <td>Jayakrishnan D<br>Navin Kumar</td>
                                 <td>Session 5</td>
                                 <td>Theme: Relevance of Gandhian Thoughts on Sustainability and Self Reliance in current times</td>
                             </tr>
                             <tr>
-                            <td>10:00-10:20 AM</td>
-                                <td>Plenary Speaker 1		</td>
+                                <td>10:00-10:20 AM</td>
+                                <td>Opening Remarks	</td>
                                 <td></td>
-                                <td>Sustainability and Grassroot Innovations in India -  Prof. Anil Gupta, IIM Ahmedabad, Founder, National Innovation Foundation			</td>
+                                <td>Jayakrishnan Divakaran (Plenary session chair)</td>
                             </tr>
                             <tr>
-                            <td>10:20-10:40 AM</td>
-                                <td>Plenary Speaker 2		</td>
+                                <td>10:20-10:40 AM</td>
+                                <td>Plenary Speaker 1 </td>
                                 <td></td>
-                                <td>India's Self Reliance in Space - Dr.Uma Maheswaran, Head of Human Flight Mission, ISRO				</td>
+                                <td>Sustainable Innovations in India and role of academia -  Prof. Anil Gupta, IIM Ahmedabad, Founder, National Innovation Foundation</td>
                             </tr>
                             <tr>
-                            <td>10:40-11:30 AM</td>
-                                <td>Panel Discussion</td>
-                                
-                               
-                            </tr>
-                            <tr>
+                                <td>10:40 A.M - 11:30 A.M</td>
+                                <td>Plenary Speaker 2 </td>
                                 <td></td>
-                                <td>Paneiist 1</td>
-                                <td></td>
-                                <td>TBD	</td>
+                                <td>India's Self Reliance journey in Space sector - Dr.Uma Maheswaran, Head of Human Flight Mission, ISRO</td>
                             </tr>
                             <tr>
                                 <td></td>
-                                <td>Panelist 2		</td>
+                                <td>Panelist 1</td>
                                 <td></td>
-                                <td>Reviving traditional wells and water bodies  - Shri. Vishwanath Srikantiai: National Water Expert, MD Biome Environmental Trust				</td>
+                                <td>Narayanan Subramaniam, CTO, Eugenie</td>
                             </tr>
                             <tr>
                                 <td></td>
-                                <td>Panelist 3		</td>
+                                <td>Panelist 2 </td>
                                 <td></td>
-                                <td>TBD	</td>
+                                <td>Sustainability, Long term transitions, Climate Adaptation - Dr. Indu K Murthyi,  Sector Head  Climate, Environment and Sustainability - CSTEP  </td>
                             </tr>
                             <tr>
                                 <td></td>
-                                <td>Panelist 4		</td>
+                                <td>Panelist 3 </td>
                                 <td></td>
-                                <td>Making our Villages Smart but Sustainable - Dr. Ashok Das, Founder SunMoksha 				</td>
+                                <td>Reviving traditional wells and water bodies  - Shri. Vishwanath Srikantiai: National Water Expert, MD Biome Environmental Trust</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>Panelist 4 </td>
+                                <td></td>
+                                <td>Sustainability through technology to track, trace and mitigate carbon emissions and wastage (energy, materials). - Narayanan Subramaniam, CTO Eugenie</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>Moderator </td>
+                                <td></td>
+                                <td>Making our Villages Smart and Sustainable - Dr. Ashok Das, Founder SunMoksha</td>
                             </tr>
                             <tr class="table-danger">
                                 <td>11:30-12:00</td>
@@ -316,14 +322,25 @@
                                 <td>Tea Break and Networking</td>
                             </tr>
                             <tr class="table-primary">
-                                <td>12:00-1:30PM	</td>
-                                <td>Bindu Thomas / Ashwini / Ravi / Raghavendra/ Parameshachari	</td>
-                                <td>Session 5	</td>
-                                <td>Theme: Project Presentations & Posters SDG 12		</td>
+                                <td>12:00-1:30PM </td>
+                                <td>Bindu Thomas / Ravi Hosmani / Raghavendra/ Parameshachari</td>
+                                <td>Session 5 </td>
+                                <td>Theme: Community Problem Solving - Opportunities, Challenges and Best Practices	</td>
                             </tr>
-                            <tr class="table-primary">
+                            <tr>
                                 <td></td>
-                                <td colspan="3">IEEE SIGHT/HAC Project application/Grant best practices  (45 miniutes interactive session)		</td>
+                                <td></td>
+                                <td colspan="3">Jayakrishnan D, former IEEE HAC Community of Practise Lead	</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td colspan="3">Dr. Anil Gupta, former IIMA Professor and founder Honey Bee Networks, Sristi, NIF, GIAN	</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td colspan="3">Abhas Abhinav,  Founder and  hacker-in-chargefounder & hacker-in-charge, DeepRoot GNU/Linux	</td>
                             </tr>
                             <tr class="table-danger">
                                 <td>1:30-2:30 PM</td>
@@ -369,9 +386,10 @@
                             </tr>
                             <tr>
                                 <td></td>
-                                <td></td>
                                 <td>Vote Of Thanks</td>
-                               
+                                <td></td>
+                                <td></td>
+
                             </tr>
                             <tr class="table-danger">
                                 <td>4:00-5:00 PM</td>
