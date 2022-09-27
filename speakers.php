@@ -44,9 +44,6 @@
         <br><br>
         <img src="assets/img/speakers/5.png" alt="">
         <br><br>
-        <img src="assets/img/speakers/6.png" alt="">
-        <br><br>
-        <img src="assets/img/speakers/7.png" alt="">
           <!-- Speaker -->
 
           <!-- <div class="col-xl-3 col-lg-4 col-md-6">
