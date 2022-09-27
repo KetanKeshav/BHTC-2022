@@ -42,7 +42,7 @@
                         </thead>
                         <tbody>
                             <tr class="table-primary">
-                                <th scope="row" rowspan="33" style="vertical-align: center;">October 1, 2022</th>
+                                <th scope="row" rowspan="37" style="vertical-align: center;">October 1, 2022</th>
                                 <td>8.00-9.00 AM	</td>
                                 <td></td>
                                 <td>Session 1</td>
@@ -208,62 +208,57 @@
                             </tr>
                             <tr class="table-primary">
                                 <td>4:00-5:30PM	</td>
-                                <td>Alok De / Chengappa	</td>
+                                <td>Aloknath De <br> Chengappa Munjandira</td>
                                 <td>Session 4	</td>
                                 <td>Theme: Circular Economy </td>
                             </tr>
                             <tr>
-                            <td>04:00 -4:05 PM</td>
+                                <td>04:00 -4:05 PM</td>
                                 <td>Chair</td>
                                 <td></td>
-                                <td>Opening Remarks Plenary Session Chair - Dr. Alok De</td>
+                                <td>Opening Remarks Plenary Session Chair - Dr. Alok D, Chair-Elect IEEE Bangalore Section & Executive Director & ex-CTO, Samsung </td>
                             </tr>
                             <tr>
-                            <td>04:00 -4:45 PM</td>
+                                <td>04:00 -4:45 PM</td>
                                 <td>Plenary Speaker</td>
                                 <td></td>
-                                <td></td>
+                                <td>TBD</td>
                             </tr>
                             <tr>
-                            <td>04:45 -5:30 PM</td>
+                                <td>04:45 -5:30 PM</td>
                                 <td>Panel Discussion</td>
-                                
-                                
+                                <td></td>
+                                <td></td>               
                             </tr>
                             <tr>
-                            <td></td>
-                                
-                                <td>Panelist 1		</td>
                                 <td></td>
-                                <td>   Smt. P. Bineesha, Director, International Institute of Waste Management (IIWM)				</td>
+                                <td>Panelist 1</td>
+                                <td></td>
+                                <td>Smt. P. Bineesha, Director, International Institute of Waste Management (IIWM)</td>
                             </tr>
                             <tr>
-                            <td></td>
                                 <td></td>
-                                <td>	Panelist 2		</td>
+                                <td>Panelist 2</td>
                                 <td></td>
-                                <td>   Iram Maimuna, Founder E-Waste Social 				</td>
+                                <td>Iram Maimuna, Founder E-Waste Social </td>
                             </tr>
                             <tr>
-                            <td></td>
                                 <td></td>
-                                <td>	Panelist 3		</td>
+                                <td>Panelist 3</td>
                                 <td></td>
-                                <td>    Kavya Madappa, Bluecat paper				</td>
+                                <td>Kavya Madappa, Bluecat paper</td>
                             </tr>
                             <tr>
-                            <td></td>
                                 <td></td>
-                                <td>	Panelist 4		</td>
+                                <td>Panelist 4</td>
                                 <td></td>
-                                <td>    Santosh Kumar, Founder Li-Circle			</td>
+                                <td>Santosh Kumar, Founder Li-Circle</td>
                             </tr>
                             <tr>
-                            <td></td>
                                 <td></td>
-                                <td>	Moderator		</td>
+                                <td>Moderator</td>
                                 <td></td>
-                                <td>    Dr. Aloknath De	</td>
+                                <td>Dr. Aloknath De</td>
                             </tr>
                             <tr class="table-primary">
                                 <th scope="row" rowspan="18" style="vertical-align: center;">October 2, 2022</th>
@@ -294,7 +289,7 @@
                                 <td></td>
                                 <td>Paneiist 1</td>
                                 <td></td>
-                                <td>TBD		</td>
+                                <td>TBD	</td>
                             </tr>
                             <tr>
                                 <td></td>
