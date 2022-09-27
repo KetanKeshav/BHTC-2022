@@ -35,7 +35,7 @@
                             <tr>
                                 <th scope="col">Date</th>
                                 <th scope="col">Time</th>
-                                <th scope="col">Session Owner</th>
+                                <th scope="col">Session Chair</th>
                                 <th scope="col">Session</th>
                                 <th scope="col">Session Objective</th>
                             </tr>
@@ -50,9 +50,9 @@
                             </tr>
                             <tr class="table-primary">
                                 <td>9:30-11:00</td>
-                                <td>Ashok Das / Narayanan/Chandrakanta</td>
+                                <td>Ashok Das <br> Chandrakanta Kumar</td>
                                 <td>Inauguration</td>
-                                <td>Conference Inauguration  (https://sdg-tracker.org/sustainable-consumption-production)</td>
+                                <td>Conference Inauguration</td>
                             </tr>
                             <tr>
                                 <td>9:00 - 9:05AM</td>
@@ -70,7 +70,7 @@
                                 <td>9:10 - 9:30 AM</td>
                                 <td></td>
                                 <td></td>
-                                <td>Inaugural Address: TBD</td>
+                                <td>M V Gowtama, former CMD of Bharat Electronics</td>
                             </tr>
                             <tr>
                                 <td>9.30 - 9.40 AM</td>
@@ -82,7 +82,7 @@
                                 <td>9:50 - 10:10 AM</td>
                                 <td></td>
                                 <td></td>
-                                <td>Inaugural Address: Nation Building through private sector- Dr. R.Gopalakrishnan, former Executive Director, Tata Sons</td>
+                                <td>Sampath Veeraraghavan, Global Chair - HAC </td>
                             </tr>
                             <tr>
                                 <td>10.10 - 10.30 AM</td>
