@@ -98,9 +98,9 @@
                             </tr>
                             <tr class="table-primary">
                                 <td>11:30 AM-1:00 PM</td>
-                                <td>Anandi G. / Divya M G</td>
+                                <td>Anandi G. <br> Divya M G</td>
                                 <td>Session 2</td>
-                                <td>Making our Villages Smart and Sustainable - Dr. Ashok Das, Founder SunMoksha</td>
+                                <td>Theme: Management and Use of Natural Resources (Responsible Production)	</td>
                             </tr>
                             <tr>
                             <td>11:30 AM-11:35 PM</td>
@@ -117,30 +117,32 @@
                             <tr>
                             <td>12:15 PM-1:00 PM</td>
                                 <td>Panel Discussion</td>
+                                <td></td>
+                                <td></td>
                             </tr>    
                             <tr>
                                 <td></td>
                                 <td>Panelist 1</td>
                                 <td></td>
-                                <td>Dr. Rajagopalan, IIIT B</td>
+                                <td>Dr. Rajagopalan, IIIT - Carbon Foot print</td>
                             </tr>
                             <tr>
                                 <td></td>
                                 <td>Panelist 2</td>
                                 <td></td>
-                                <td>Dr Inayathulla Bangalore University, Centre for Water Resources, Bangalore </td>
+                                <td>Dr Inayathulla Bangalore University, Integrated water resources / Watershed Management, Centre for Water Resources, Bangalore University</td>				
                             </tr>
                             <tr>
                                 <td></td>
                                 <td>Panelist 3</td>
                                 <td></td>
-                                <td>Dr. Ashok Hanjagi, Department of Geography, Bangalore University</td>
+                                <td>Dr. Ashok Hanjagi, Department of Geography, Bangalore University</td>		
                             </tr>
                             <tr>
                                 <td></td>
                                 <td>Panelist 4</td>
                                 <td></td>
-                                <td>Dr. Gopal Naik, IIM Bangalore</td>
+                                <td>Dr. Gopal Naik, IIM Bangalore  - Water  Supply and consumption</td>			
                             </tr>
                             <tr>
                             <td></td>
