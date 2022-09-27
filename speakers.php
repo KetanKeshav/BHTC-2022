@@ -23,21 +23,6 @@
 
   <main id="main">
 
-    <!-- ======= Breadcrumbs Section ======= -->
-    <section class="breadcrumbs">
-      <div class="container">
-
-        <div class="d-flex justify-content-between align-items-center">
-          <h2>Speakers</h2>
-          <ol>
-            <li><a href="../index.php">Home</a></li>
-            <li>Speakers</li>
-          </ol>
-        </div>
-
-      </div>
-    </section><!-- End Breadcrumbs Section -->
-
     <!-- ======= OB Section ======= -->
 
     <section id="speakers" class="team section-bg">
