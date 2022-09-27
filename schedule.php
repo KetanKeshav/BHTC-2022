@@ -160,7 +160,7 @@
                             </tr>
                             <tr class="table-primary">
                                 <td>2:00-3:40 PM	</td>
-                                <td>Sriraam / Ashwini/Abhishek	</td>
+                                <td>Sriraam Natarajan<br>Ashwini Holla<br>Abhishek Appaji</td>
                                 <td>Session 3	</td>
                                 <td>Theme: Responsible Consumption	</td>
                             </tr>
@@ -168,37 +168,37 @@
                             <td>02:00 PM-02:05 PM</td>
                                 <td>Chair</td>
                                 <td></td>
-                                <td>Opening Remarks: Plenary Section Chair - Prof. N Sriraam, MSRIT		</td>
+                                <td>Opening Remarks: Session Chair - Prof. N Sriraam, Head R&D, professor Med Electronics MSRIT, Chair IEEE EMBS,  EAC, Banake section.</td>	
                             </tr>
                             <tr>
                                 <td>2:05-2:20 PM</td>
                                 <td>Plenary Speaker</td>
                                 <td></td>
-                                <td>Prabhash Chandra Ray, Conservation of Natural Resources:Opportunities n Challenges</td>
+                                <td>Prabhash Chandra Ray, Conservation of Natural Resources:Opportunities n Challenges</td>			
                             </tr>
                             <tr>
                                 <td>2.20 - 2.40 PM</td>
                                 <td>Lightening Talk-2		</td>
                                 <td></td>
-                                <td>Impact of Climate change on Consumption and Sustainable solutions   - PravinJith - MD Ecoparadigm; Member, Technical committee, BSWML, Member Monitoring Committee, GWMC</td>
+                                <td>PravinJith - MD Ecoparadigm; Member, Technical committee, BSWML, Member Monitoring Committee, GWMC - Impact of Climate change on Consumption and Sustainable solutions </td>
                             </tr>
                             <tr>
                                 <td>2.40 - 3.00 PM</td>
                                 <td>Lightening Talk-3</td>
                                 <td></td>
-                                <td>To be updated   ReEpresentative from ITC</td>
+                                <td>Goutam Surana, Founder - Director, Eco 365 - Latest trend related to sustainable packaging and connect to SDG -12</td>			
                             </tr>
                             <tr>
                                 <td>3.00 - 3.20 PM	</td>
                                 <td>Lightening Talk-4</td>
                                 <td></td>
-                                <td>Medical Waste Management -  Dr. Ramachandra Kamath Associate Dean Ramaiah Medical Hospital</td>
+                                <td>Dr. Ramachandra Kamath Associate Dean Ramaiah Medical Hospital - Medical Waste Management</td>		
                             </tr>
                             <tr>
                                 <td>3.20 - 3.40 PM	</td>
                                 <td>Lightening Talk-5</td>
                                 <td></td>
-                                <td>To Be Decided	</td>
+                                <td>Dr Adil Khan Yusuf Zai, Product Strategy Manager, Dozee	</td>		
                             </tr>
                             <tr class="table-danger">
                                 <td>3:40-4:00 PM</td>
