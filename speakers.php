@@ -48,25 +48,37 @@
         </div>
 
         <div class="row">
-          
+      
+        <img src="assets/img/speakers/1.png" alt="">
+        <br><br>
+        <img src="assets/img/speakers/2.png" alt="">
+        <br><br>
+        <img src="assets/img/speakers/3.png" alt="">
+        <br><br>
+        <img src="assets/img/speakers/4.png" alt="">
+        <br><br>
+        <img src="assets/img/speakers/5.png" alt="">
+        <br><br>
+        <img src="assets/img/speakers/6.png" alt="">
+        <br><br>
+        <img src="assets/img/speakers/7.png" alt="">
           <!-- Speaker -->
 
-          <div class="col-xl-3 col-lg-4 col-md-6">
+          <!-- <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="member" data-aos="fade-up">
               <div class="pic"><img src="assets/img/speakers/adil.png" alt=""></div>
               <h4>Dr Adil Khan</h4>
               <span>Stanford India Biodesign</span>
               <div class="social">
-                <!-- Button trigger modal -->
                 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#Modal1">
                   Know More
                 </button>
               </div>
             </div>
-          </div>
+          </div> -->
 
           <!-- Modal -->
-          <div class="modal fade bd-example-modal-lg" id="Modal1" tabindex="-1" aria-labelledby="Modal1Label" aria-hidden="true">
+          <!-- <div class="modal fade bd-example-modal-lg" id="Modal1" tabindex="-1" aria-labelledby="Modal1Label" aria-hidden="true">
             <div class="modal-dialog modal-lg">
             <div class="modal-content">
                 <div class="modal-header">
@@ -95,28 +107,27 @@
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
 
           <!-- End Speaker -->
 
           <!-- Speaker -->
           
-          <div class="col-xl-3 col-lg-4 col-md-6">
+          <!-- <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="member" data-aos="fade-up">
               <div class="pic"><img src="assets/img/speakers/bineesha.jpg" alt=""></div>
               <h4>P. Bineesha</h4>
               <span>Executive Director- IIWM</span>
               <div class="social">
-                <!-- Button trigger modal -->
                 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#Modal2">
                   Know More
                 </button>
               </div>
             </div>
-          </div>
+          </div> -->
 
           <!-- Modal -->
-          <div class="modal fade bd-example-modal-lg" id="Modal2" tabindex="-1" aria-labelledby="Modal2Label" aria-hidden="true">
+          <!-- <div class="modal fade bd-example-modal-lg" id="Modal2" tabindex="-1" aria-labelledby="Modal2Label" aria-hidden="true">
             <div class="modal-dialog modal-lg">
             <div class="modal-content">
                 <div class="modal-header">
@@ -146,28 +157,27 @@ Conceiving innovative projects by identifying the problems and finding appropria
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
 
           <!-- End Speaker -->
 
           <!-- Speaker -->
           
-          <div class="col-xl-3 col-lg-4 col-md-6">
+          <!-- <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="member" data-aos="fade-up">
               <div class="pic"><img src="assets/img/speakers/iram.png" alt=""></div>
               <h4>Iram Maimuna</h4>
               <span>Founder, E-Waste Social</span>
               <div class="social">
-                <!-- Button trigger modal -->
                 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#Modal3">
                   Know More
                 </button>
               </div>
             </div>
-          </div>
+          </div> -->
 
           <!-- Modal -->
-          <div class="modal fade bd-example-modal-lg" id="Modal3" tabindex="-1" aria-labelledby="Modal3Label" aria-hidden="true">
+          <!-- <div class="modal fade bd-example-modal-lg" id="Modal3" tabindex="-1" aria-labelledby="Modal3Label" aria-hidden="true">
             <div class="modal-dialog modal-lg">
             <div class="modal-content">
                 <div class="modal-header">
@@ -196,28 +206,27 @@ She is also part of UN women and Empretec capacity building programme for entrep
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
 
           <!-- End Speaker -->
 
           <!-- Speaker -->
           
-          <div class="col-xl-3 col-lg-4 col-md-6">
+          <!-- <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="member" data-aos="fade-up">
               <div class="pic"><img src="assets/img/speakers/kavya.png" alt=""></div>
               <h4>Kavya Madappa</h4>
               <span>Bluecat Paper</span>
               <div class="social">
-                <!-- Button trigger modal -->
                 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#Modal4">
                   Know More
                 </button>
               </div>
             </div>
-          </div>
+          </div> -->
 
           <!-- Modal -->
-          <div class="modal fade bd-example-modal-lg" id="Modal4" tabindex="-1" aria-labelledby="Modal4Label" aria-hidden="true">
+          <!-- <div class="modal fade bd-example-modal-lg" id="Modal4" tabindex="-1" aria-labelledby="Modal4Label" aria-hidden="true">
             <div class="modal-dialog modal-lg">
             <div class="modal-content">
                 <div class="modal-header">
@@ -243,28 +252,27 @@ Bluecatpaper produces sustainable handmade paper and paper products. The paper p
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
 
           <!-- End Speaker -->
 
           <!-- Speaker -->
-          
+<!--           
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="member" data-aos="fade-up">
               <div class="pic"><img src="assets/img/speakers/santosh.png" alt=""></div>
               <h4>Santosh Kumar</h4>
               <span>Founder, Li- Circle</span>
               <div class="social">
-                <!-- Button trigger modal -->
                 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#Modal5">
                   Know More
                 </button>
               </div>
             </div>
-          </div>
+          </div> -->
 
           <!-- Modal -->
-          <div class="modal fade bd-example-modal-lg" id="Modal5" tabindex="-1" aria-labelledby="Modal5Label" aria-hidden="true">
+          <!-- <div class="modal fade bd-example-modal-lg" id="Modal5" tabindex="-1" aria-labelledby="Modal5Label" aria-hidden="true">
             <div class="modal-dialog modal-lg">
             <div class="modal-content">
                 <div class="modal-header">
@@ -289,28 +297,27 @@ His passion for green-tech, He's always  in a campaign for the eco-friendly worl
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
 
           <!-- End Speaker -->
 
           <!-- Speaker -->
-          
+<!--           
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="member" data-aos="fade-up">
               <div class="pic"><img src="assets/img/speakers/goutam.png" alt="" ></div>
               <h4>Goutam Surana</h4>
               <span>Founder - ECO 365</span>
               <div class="social">
-                <!-- Button trigger modal -->
                 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#Modal6">
                   Know More
                 </button>
               </div>
             </div>
-          </div>
+          </div> -->
 
           <!-- Modal -->
-          <div class="modal fade bd-example-modal-lg" id="Modal6" tabindex="-1" aria-labelledby="Modal6Label" aria-hidden="true">
+          <!-- <div class="modal fade bd-example-modal-lg" id="Modal6" tabindex="-1" aria-labelledby="Modal6Label" aria-hidden="true">
             <div class="modal-dialog modal-lg">
             <div class="modal-content">
                 <div class="modal-header">
@@ -335,28 +342,27 @@ At 'Eco365', they provide innovative efficient alternative solutions to reduce w
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
 
           <!-- End Speaker -->
 
           <!-- Speaker -->
           
-          <div class="col-xl-3 col-lg-4 col-md-6">
+          <!-- <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="member" data-aos="fade-up">
               <div class="pic"><img src="assets/img/speakers/ramachandra.png" alt=""></div>
               <h4>Dr Ramachandra Kamath</h4>
               <span>Associate Dean Ramaiah Medical Hospital </span>
               <div class="social">
-                <!-- Button trigger modal -->
                 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#Modal7">
                   Know More
                 </button>
               </div>
             </div>
-          </div>
+          </div> -->
 
           <!-- Modal -->
-          <div class="modal fade bd-example-modal-lg" id="Modal7" tabindex="-1" aria-labelledby="Modal7Label" aria-hidden="true">
+          <!-- <div class="modal fade bd-example-modal-lg" id="Modal7" tabindex="-1" aria-labelledby="Modal7Label" aria-hidden="true">
             <div class="modal-dialog modal-lg">
             <div class="modal-content">
                 <div class="modal-header">
@@ -391,7 +397,7 @@ Has Organised many International conferences on Quality & Bio Medical Waste Mana
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
 
           <!-- End Speaker -->
 
