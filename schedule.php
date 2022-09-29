@@ -27,8 +27,8 @@
                 <div class="section-title mt-5" data-aos="fade-left">
                     <h2>Program Schedule</h2>
                 </div>
-
-                <div class="table-responsive">
+                <iframe src="https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vR8nTUZI4QFPHJOkgKelFrUu8dIqyW90BAvFdpMTv_NGJE4FNUDL_nGv8hVj-XRpwx69FOTxPeqXErU/pubhtml" frameborder="0" style="width:100%;" height="750"></iframe>
+                <!-- <div class="table-responsive">
                     <p>Scroll to view (on mobile screens).</p>
                     <table class="table table-bordered table-striped mt-2">
                         <thead>
@@ -399,7 +399,7 @@
                             </tr>
                         </tbody>
                     </table>
-                </div>
+                </div> -->
 
 
 
