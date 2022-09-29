@@ -350,10 +350,10 @@
                         <div class="publication-wrap">
                             <img src="assets/img/oc/nagalekha.webp" class="img-fluid" alt="">
                             <div class="publication-info">
-                                <h4>Naglekha Ramesh </h4>
+                                <h4>Nagalekha Ramesh </h4>
                             </div>
                         </div>
-                        <h4 class="mt-5">Naglekha Ramesh </h4>
+                        <h4 class="mt-5">Nagalekha Ramesh </h4>
                     </div>
 
                 </div>
