@@ -63,7 +63,14 @@
                         </div>
                       </div>
                       <div class="col-md-8 ml-auto">
-                        Bio to be added soon.
+                        Goutama M V served as the Chairman and Managing Director (CMD) of Bharat Electronics Limited (BEL), the pioneering electronics company and the Defence major in India between 2016 and 21. Joined as a probationary engineer in 1983 at the Ghaziabad unit, he took over as GM, Technology Planning at BEL’s Corporate Office in Bangalore in 2010. Later he served as GM (Milcom) and was Executive Director (Missile Systems) till his elevation as CMD
+                        <br>
+                        During his tenure, BEL grew at a CAGR of 12% and saw many new initiatives for fostering innovation and talent within the company.The 30,000 ICU ventilators supplied to the Govt of India to combat Covid in a record time is one of his key achievement
+                        <br>
+                        He completed his B.Tech in Electronics and Communications from Sri Venkateswara University College of Engineering, Tirupati, in 1983 and M.Tech in Advanced Electronics from Jawaharlal Nehru Technological University, Hyderabad, in 2002
+                        <br>
+                        With Mr. Gowtama at the helm, BEL has won a host of prestigious awards including the CII EXIM Bank Business Excellence Award (2018) for Bangalore Complex and the Jury’s Commendation for Role Model Organisation. Mr. Gowtama has won many accolades for being a wonderful leader: ‘Business Leader of the Year’ Award; CEO with HR Orientation Award; Engineering Council of India's Commendation Award; Great Son of the Soil Award; Hall of Fame Award by Manufacturing Today; Amity Leadership Award for Business Excellence and Most Enterprising CEO in Electronics Sector.
+
                       </div>
                     </div>
                   </div>
@@ -107,7 +114,10 @@
                         </div>
                       </div>
                       <div class="col-md-8 ml-auto">
-                        Bio to be added soon.
+                        R Gopalakrishnan studied physics at Kolkata University, engineering at IIT Kharagpur and attended the Advanced Management Program at Harvard Business School. He has been a professional manager from 1967. He has served as Chairman of Unilever Arabia, as MD of Brooke Bond Lipton and Vice Chairman of Hindustan Lever, as director of Tata Sons and several Tata companies and also as an independent director of Hemas Holding PLC, Sri Lanka. He serves as non – executive chairman of Castrol India and Independent Director of Press Trust of India. He is actively engaged in both instructional and inspirational speaking. He has authored seventeen books.
+                        <br>
+                        Gopal mentors few start-ups. He is actively engaged in both instructional and inspirational speaking. He has authored twelve books
+
                       </div>
                     </div>
                   </div>
@@ -753,7 +763,12 @@
                       </div>
                       <div class="col-md-8 ml-auto">
                         <p>
-                          Bio to be added soon.
+                          Professor Anil K Gupta is a visiting faculty, Indian Institute of Management, Ahmedabad; after teaching there for four decades, and at IIT Bombay. He is the Founder of The Honey Bee Network, National Innovation Foundation, , SRISTI and GIAN. He is a CSIR Bhatnagar Fellow (2018-21) and fellow of the World Academy of Art and Science. He was awarded the Padma Shri in 2004 for his contributions to management education.
+                          <br>
+                          His mission is to expand the global as well as local space for innovations from and for grassroots, link ideas in informal and formal sector; to ensure recognition, respect and reward for creative communities, individuals, children and tech students etc., and to augment open innovations by individuals, institutions, corporations, and countries through frugal, flexible and friendly empathetic platforms.
+                          <br>
+                          One of his most popular courses is Shodh Yatra, (meaning 'research walk'), under which he took management students to different parts of the country to learn from local communities and study their knowledge systems.This course was derived from his larger concept of walking through the length and breadth of the country, interacting with farmers, traditional knowledge holders, grassroots innovators, innovative students, etc. He has pursued 43 Shodhyatras, learning walks in every state of India once covering more than 5000 km during 1998-2016 and has started the second round from 2017 onwards along with Honey Bee Network volunteers.
+
                         </p>
                       </div>
                     </div>
@@ -799,7 +814,12 @@
                       </div>
                       <div class="col-md-8 ml-auto">
                         <p>
-                          Bio to be added soon.
+                          Shri Umamaheswaran R is the former Scientific Secretary and current head of human flight mission of ISRO. He has made significant contributions to the system integration, checkout and avionics of ISRO’s launch vehicles viz PSLV, GSLV & GSLV-MkIII. He has been the Chief Designer (Integration) of major sub-assemblies including Equipment Bay of the Launch vehicle. Many of the mission critical circuits residing in the vehicle including the entire pyro chain for all the three launch vehicles have been designed by him. Over the years, he has evolved as a domain expert in the field of system electrical integration, checkout, ground station and avionics. He was also the Vehicle Director for the remarkably successful GSLV D5/GSAT-14 Mission with the indigenous cryo-stage.
+                          <br>He completed B Tech in Electronics & Communication Engineering from College of Engineering, Trivandrum in 1985, MS in Software System from BITS, Pilani in 2007 and MA in Russian Language from Kerala University in 1996. He joined VSSC in 1987.
+                          <br>He took over the assignment of Project Director, GSLV with effect from July 1, 2014. As Mission Director of the GSLV-D6, GSLV F05 & GSLV F09 Missions, he led the entire ISRO Team and successfully accomplished the missions. This has been the first hattric success of GSLV missions under a single project team. He also lead the Operational Launch Vehicle Team of Avionics Production, Hardware Production, Structural analysis and Control guidance to enable & successfully deliver the products for the increased frequency of PSLV, GSLV and GSLV Mk III missions.
+                          <br>Subsequently he was assigned with the charge of Deputy Director, Avionics with effect from 29th May, 2017. As DD, AVN, he led a team of young enterprising Engineers, for the development of miniaturised avionics, performing the crucial role in making key decisions to overcome the various technical intricacies and mitigate developmental constraints in the realisation of these systems. He also spearheaded the induction of Electro-Mechanical Actuation Systems in L40, GS2 & S200 EGC systems for the coming missions. From May 4th 2018 onward, he has taken charge as Associate Scientific Secretary, ISRO HQ and as Scientific Secretary, ISRO from August 1st onward.
+                          <br>He has been awarded ISRO Individual Merit Award-2013, ISRO Team Awards-2006 for PSLV and in 2014 for GSLV and ISRO Outstanding Achievement Award for 2018. He also received the ASI-ISRO award for the year 2016. He is the life member of Aeronautical Society of India (AeSI), Systems Society of India (SSI), and Indian Society for Advancement of Materials and Process Engineering (ISAMPE). He is also the recipient of Honoris Causa from the Sathyabama Institute of Science and Technology, Chennai (2019). He is the National Vice President for Indian Society of Systems, Science and Engineering (ISSE) and the President of ISSE Bangalore Chapter. He became a corresponding member of the International Academy of Astronautics in 2019.
+
                         </p>
                       </div>
                     </div>
@@ -891,7 +911,14 @@
                       </div>
                       <div class="col-md-8 ml-auto">
                         <p>
-                          Bio to be added soon.
+                          Dr Indu K Murthy is Sector Head - Climate, Environment and Sustainability, at CSTEP.
+                          <br>
+                          She completed her bachelor's in Botany from Ethiraj College for Women, Chennai; master's in Botany from M S University, Baroda (with specialisation in Forestry and Environment); and PhD in Ecology and Environmental Sciences from Pondicherry University.
+                          <br>
+                          Prior to joining CSTEP, she worked as a Consultant Scientist at the Indian Institute of Science, Bengaluru. Her areas of interest include climate change vulnerability, land-based mitigation, and adaptation/resilience building or climate-proofing development to climate change.
+                          <br>
+                          Indu is on the Governing Board of South Asia Consortium for Interdisciplinary Water Resources Studies (SaciWATERs). She is an expert with the UNFCCC Roster of Experts for India (for GHG Inventory), and a member of the REDD+ Cell constituted by the Government of Karnataka. She is also an Academic Editor on the PLOS ONE Editorial Board, and a member of the Technical Advisory Committee of Mahila Abhivruddhi Society, Andhra Pradesh (APMAS)
+
                         </p>
                       </div>
                     </div>
@@ -937,7 +964,10 @@
                       </div>
                       <div class="col-md-8 ml-auto">
                         <p>
-                          Bio to be added soon.
+                          Vishwanath Srikantaiah is a water conservation expert who is renowned for his tireless and pioneering efforts to find solutions to the country’s freshwater crisis. Popularly known as Zenrainman on social media channels, his insightful articles on water and environmental issues frequently appear in mainstream news publications.
+                          <br>
+                          A Civil Engineer and Urban Planner by qualification, Vishwanath worked with Housing and Urban Development Corporation (HUDCO) for 14 years before dedicating himself full-time to solving water issues facing urban and rural communities. He is Trustee – Biome Environmental Trust, an organisation assisting communities in water and sanitation solutions; Director of Biome Environmental Solutions Pvt. Ltd., an architectural firm specialising in sustainable design; and an Adjunct Faculty at the Azim Premji University.
+
                         </p>
                       </div>
                     </div>
@@ -983,7 +1013,20 @@
                       </div>
                       <div class="col-md-8 ml-auto">
                         <p>
-                          Bio to be added soon.
+                          After 26 plus years in Technology Leadership spanning Electric Vehicles, Networking, Telecommunications, Datacenter Infrastructure and Cloud Services, I am pursuing avenues to give back to the student and engineering community as a Mentor and Public Speaker.
+
+                          My day job is as a technology leader at Nutanix on next generation Hybrid Cloud Distributed Manageability by leveraging the goodness of IoT, DevOps and ML. My passion for applying Technology across domains in battling Climate Change helped me disrupt the Electric Mobility space at SUN Mobility by delivering the world’s first Unified Software IoT Edge Compute Platform for Electric Vehicle Li-Ion Battery Swapping and Charging for Electric Buses, Electric Scooters and Electric Rickshaws. This is currently deployed in production/trials in India and Sri Lanka.
+
+                          In addition to the above, I have had the pleasure of being at the heart of many key technology developments, innovations and disruptions, some of which are listed below:
+                        <ul>
+                          <li>Cisco – Technology leadership in the development of the Serviceability platform for next generation DevOps enabled Webex Teams, the global market leader for Cloud based Video-Voice Conferencing.</li>
+                          <li>DELL – Technology leadership in the development of the iDRAC Embedded Data Centre Server Controller with Web Services, an industry first.</li>
+                          <li>Infinera – Engineering the distributed Management Plane for DWDM Optical Switches</li>
+                          <li>Hughes Networks – Technical Lead for the first Online Distance Learning portal via VSAT Satellite Networks</li>
+                          <li>IBM – Software Engineer for the world’s first 10 channel DWDM Optical Multiplexer network management offering</li>
+                        </ul>
+                        My “night-job” is to follow my passion for Mathematics, Physics, Space and Earth Sciences, the Human Impacts of Climate Change, the importance of Ethics and Values in Education and Society to name a few.
+
                         </p>
                       </div>
                     </div>
@@ -1029,7 +1072,14 @@
                       </div>
                       <div class="col-md-8 ml-auto">
                         <p>
-                          Bio to be added soon.
+                          Jayakrishnan Divakaran has more than three decades of product development experience especially in real time embedded and carrier class/enterprise ICT software in the Defence, Telecom, Industrial, Healthcare and Automotive verticals. He has led many national and international projects for Fortune 500 clients successfully. He has also taught at a couple of Universities in Kerala as an Adjunct Professor on Sabbatical.
+                          <br>
+                          He holds a BTech degree in Electronics and Communication from College of Engineering, Trivandrum and MS degree in Software Systems from BITS, Pilani. He has also attended the Master of Business Laws program from National Law School, Bangalore and other continuing education programs from Indian Institute of Science, Bangalore. MIT Sloan Business School and Wharton Business School
+                          <br>
+                          He is currently VP, Engineering at a high tech startup, VNJ Systems LLP based in Bangalore. Before co-founding VNJ Systems, he was with Philips Innovation Campus, Bengaluru leading the global product sustenance team for one of their flagship radiology informatics solutions.
+                          <br>
+                          He is a fellow of IETE and Senior member of IEEE and was a Global Project Oversight Member and Community of Practice lead on Medical Devices in HAC during 2020. He also serves as the partner relations lead in IEEE MOVE, the international disaster response program in India.
+
                         </p>
                       </div>
                     </div>
@@ -1075,7 +1125,12 @@
                       </div>
                       <div class="col-md-8 ml-auto">
                         <p>
-                          Bio to be added soon.
+                          Abhas is a hacker, entrepreneur and free software activist.
+                          <br>As the founder of DeepRoot GNU/Linux, an twenty-one-year-old Free Software Business that provides support, services and solutions for Free Software deployments. DeepRoot builds mail servers and clusters, provides hosting & support for a variety of Free Software tools and helps organisations of all sizes choose self-hosting for their infrastructure in general.
+                          <br>Abhas also leads a hardware venture called Mostly Harmless, where he experiments with and builds Libre and Liberated Hardware (like hackable mechanical keyboards, liberated computers, home automation solutions and more. The goal is to build and sell hardware and put owners in control of their lives by enabling them to run free/libre software on more hardware than usually possible.
+                          <br>Mostly Harmless operates the LibreTech.Shop - India’s first store for hackable and ethical products that offer convenience.
+                          <br>Abhas is a member of the Free Software Foundation, India working group and has been a participant in the community in India for many years. He advises colleges, govt / defence organisations and start-ups on using, building and adopting free software as a “way of life”.
+
                         </p>
                       </div>
                     </div>
