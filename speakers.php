@@ -481,6 +481,144 @@
 
           <div class="col-xl-4 col-lg-4 col-md-6 mt-3">
             <div class="member" data-aos="fade-up">
+              <img src="assets/img/speakers/praveen.png" class="img-fluid" alt="">
+              <h4 class="mt-3">Pravin Jith</h4>
+              <span>MD Ecoparadigm Pvt Ltd</span><br>
+              <button type="button" class="modal-btn mt-2" data-bs-toggle="modal" data-bs-target="#Modal25">
+                Know More
+              </button>
+            </div>
+          </div>
+
+          <!-- Modal -->
+          <div class="modal fade bd-example-modal-lg" id="Modal25" tabindex="-1" aria-labelledby="Modal25Label" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="Modal25Label">Pravin Jith</h5>
+                  <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>
+                <div class="modal-body">
+                  <div class="container-fluid">
+                    <div class="row">
+                      <div class="col-md-4"><img src="assets/img/speakers/praveen.png" class="img-fluid" alt="">
+                        <div class="social">
+                          <a href="#" target=_blank><i class="bi bi-linkedin mt-2" style="font-size: 25px;"></i></a>
+                        </div>
+                      </div>
+                      <div class="col-md-8 ml-auto">
+                        <p>
+                          Pravin Jith, MD of Ecoparadigm, is a member of the BSWML technical committee and the GWMC monitoring committee. His research focuses on the effects of climate change on consumption and sustainable solutions.
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- End Speaker -->
+
+          <!-- Speaker -->
+
+          <div class="col-xl-4 col-lg-4 col-md-6 mt-3">
+            <div class="member" data-aos="fade-up">
+              <img src="assets/img/speakers/goutam.png" class="img-fluid" alt="">
+              <h4 class="mt-3">Goutam Surana</h4>
+              <span>Founder &- Director, Eco 365 & PackGreenly.com</span><br>
+              <button type="button" class="modal-btn mt-2" data-bs-toggle="modal" data-bs-target="#Modal26">
+                Know More
+              </button>
+            </div>
+          </div>
+
+          <!-- Modal -->
+          <div class="modal fade bd-example-modal-lg" id="Modal26" tabindex="-1" aria-labelledby="Modal26Label" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="Modal26Label">Goutam Surana</h5>
+                  <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>
+                <div class="modal-body">
+                  <div class="container-fluid">
+                    <div class="row">
+                      <div class="col-md-4"><img src="assets/img/speakers/goutam.png" class="img-fluid" alt="">
+                        <div class="social">
+                          <a href="#" target=_blank><i class="bi bi-linkedin mt-2" style="font-size: 25px;"></i></a>
+                        </div>
+                      </div>
+                      <div class="col-md-8 ml-auto">
+                        <p>
+                        Goutam Surana, Founder and Director of Eco 365, discusses the newest packaging trends and how they relate to SDG-12.
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- End Speaker -->
+
+          <!-- Speaker -->
+
+          <div class="col-xl-4 col-lg-4 col-md-6 mt-3">
+            <div class="member" data-aos="fade-up">
+              <img src="assets/img/speakers/ramachandra_k.png" class="img-fluid" alt="">
+              <h4 class="mt-3">Dr. Ramachandra Kamath</h4>
+              <span>Deputy Hospital administrator MSRMH Bangalore</span><br>
+              <button type="button" class="modal-btn mt-2" data-bs-toggle="modal" data-bs-target="#Modal27">
+                Know More
+              </button>
+            </div>
+          </div>
+
+          <!-- Modal -->
+          <div class="modal fade bd-example-modal-lg" id="Modal27" tabindex="-1" aria-labelledby="Modal27Label" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="Modal27Label">Dr. Ramachandra Kamath</h5>
+                  <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>
+                <div class="modal-body">
+                  <div class="container-fluid">
+                    <div class="row">
+                      <div class="col-md-4"><img src="assets/img/speakers/ramachandra_k.png" class="img-fluid" alt="">
+                        <div class="social">
+                          <a href="" target=_blank><i class="bi bi-linkedin mt-2" style="font-size: 25px;"></i></a>
+                        </div>
+                      </div>
+                      <div class="col-md-8 ml-auto">
+                        <p>
+                          Dr. Ramachandra Kamath Associate Dean Ramaiah Medical Hospital discusses Medical Waste Management
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- End Speaker -->
+
+          <!-- Speaker -->
+
+          <div class="col-xl-4 col-lg-4 col-md-6 mt-3">
+            <div class="member" data-aos="fade-up">
               <img src="assets/img/speakers/aadil.png" class="img-fluid" alt="">
               <h4 class="mt-3">Dr Adil Khan</h4>
               <span>Stanford India Biodesign</span><br>
@@ -580,6 +718,52 @@
           </div>
 
           <!-- End Speaker -->
+
+          <!-- Speaker -->
+
+          <div class="col-xl-4 col-lg-4 col-md-6 mt-3">
+            <div class="member" data-aos="fade-up">
+              <img src="assets/img/speakers/surojit.png" class="img-fluid" alt="">
+              <h4 class="mt-3">Surojit Bose</h4>
+              <span>Head of Sustainability, Hindustan Coco-Cola Beverages Pvt. Ltd. (HCCB)</span><br>
+              <button type="button" class="modal-btn mt-2" data-bs-toggle="modal" data-bs-target="#Modal24">
+                Know More
+              </button>
+            </div>
+          </div>
+
+          <!-- Modal -->
+          <div class="modal fade bd-example-modal-lg" id="Modal24" tabindex="-1" aria-labelledby="Modal24Label" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="Modal24Label">Surojit Bose</h5>
+                  <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>
+                <div class="modal-body">
+                  <div class="container-fluid">
+                    <div class="row">
+                      <div class="col-md-4"><img src="assets/img/speakers/surojit.png" class="img-fluid" alt="">
+                        <div class="social">
+                          <a href="#" target=_blank><i class="bi bi-linkedin mt-2" style="font-size: 25px;"></i></a>
+                        </div>
+                      </div>
+                      <div class="col-md-8 ml-auto">
+                        <p>
+                          Surojit Bose is Head Sustainability at Hindustan Coca Cola Pvt. Limited (HCCB). Prior to joining HCCB he was Associate Director with PwC and EY’s climate change and sustainability practices. Surojit has a MS in Environmental Engineering from the Louisiana State University and a B.Tech (Hons) in Civil Engineering from IIT Kharagpur.
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- End Speaker --> 
 
           <!-- Speaker -->
 
@@ -786,7 +970,7 @@
           <div class="col-xl-4 col-lg-4 col-md-6 mt-3">
             <div class="member" data-aos="fade-up">
               <img src="assets/img/speakers/ummaheshwaran.png" class="img-fluid" alt="">
-              <h4 class="mt-3">Dr.Uma Maheswaran </h4>
+              <h4 class="mt-3">Dr. Uma Maheswaran </h4>
               <span>Head of Human Flight Mission, ISRO</span><br>
               <button type="button" class="modal-btn mt-2" data-bs-toggle="modal" data-bs-target="#Modal15">
                 Know More
@@ -799,7 +983,7 @@
             <div class="modal-dialog modal-lg">
               <div class="modal-content">
                 <div class="modal-header">
-                  <h5 class="modal-title" id="Modal15Label">Dr.Uma Maheswaran</h5>
+                  <h5 class="modal-title" id="Modal15Label">Dr. Uma Maheswaran</h5>
                   <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                   </button>
@@ -1143,7 +1327,107 @@
 
           <!-- End Speaker -->
 
+          <!-- Speaker -->
 
+          <div class="col-xl-4 col-lg-4 col-md-6 mt-3">
+            <div class="member" data-aos="fade-up">
+              <img src="assets/img/speakers/preetha.png" class="img-fluid" alt="">
+              <h4 class="mt-3">Dr. Preetha Sharon</h4>
+              <span>Professor & Dean (R&D) at Oxford Educational Institutions</span><br>
+              <button type="button" class="modal-btn mt-2" data-bs-toggle="modal" data-bs-target="#Modal22">
+                Know More
+              </button>
+            </div>
+          </div>
+
+          <!-- Modal -->
+          <div class="modal fade bd-example-modal-lg" id="Modal22" tabindex="-1" aria-labelledby="Modal22Label" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="Modal22Label">Dr. Preetha Sharon</h5>
+                  <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>
+                <div class="modal-body">
+                  <div class="container-fluid">
+                    <div class="row">
+                      <div class="col-md-4"><img src="assets/img/speakers/preetha.png" class="img-fluid" alt="">
+                        <div class="social">
+                          <a href="#" target=_blank><i class="bi bi-linkedin mt-2" style="font-size: 25px;"></i></a>
+                        </div>
+                      </div>
+                      <div class="col-md-8 ml-auto">
+                        <p>
+                          Dr. Preetha Sharon is Professor & Dean (Research and Development ) at Oxford Educational Institutions in Bengaluru. As a humanitarian technology volunteer, she has guided many IEEE SIGHT Projects over a decade winning grants at Region 10 and section level.
+                          <br>
+                          She has executed government/ international agency funded projects and delivered projects for prestigious funding agencies across the world as lead investigator like Naval Research Board, DRDO, India, IEEE USA and Govt. of Karnataka (KVGST), AICTE-RPS. She has multiple patents in process, research publications reaching 100+ under her leadership.
+                          <br>
+                          She has visited facilities of leading universities NTU Singapore, Tohoku University, Japan and University of Macau and Univ of Limerick , Iyerland..Delivered lectures for VTU e-learning program via satellite for country wide classroom and has written many textbooks for national / international syllabus.
+                          <br>
+                          On the occasion of India’s 75th year of India’s independence she was honoured by naming in the list of 75 accomplished women in STEAM in the country by the principal scientific advisor to the prime minister and British High Commissioner in India. She was also awarded “Woman of the Year – 1998, 2009’’ by American Biographical Institute. Associated with Elsevier and McGraw hill publication as a reviewer.
+                          <br>
+                          Dr Preeta Sharan obtained her post doctorate from IIT Kharagpur and Ph.D from IIT BHU
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- End Speaker -->
+
+          <!-- Speaker -->
+
+          <div class="col-xl-4 col-lg-4 col-md-6 mt-3">
+            <div class="member" data-aos="fade-up">
+              <img src="assets/img/speakers/manoj.png" class="img-fluid" alt="">
+              <h4 class="mt-3">Mr. Manoj Kumar</h4>
+              <span>Founder, Social Alpha and Senior Advisor to Tata Trusts</span><br>
+              <button type="button" class="modal-btn mt-2" data-bs-toggle="modal" data-bs-target="#Modal23">
+                Know More
+              </button>
+            </div>
+          </div>
+
+          <!-- Modal -->
+          <div class="modal fade bd-example-modal-lg" id="Modal23" tabindex="-1" aria-labelledby="Modal23Label" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="Modal23Label">Mr. Manoj Kumar</h5>
+                  <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>
+                <div class="modal-body">
+                  <div class="container-fluid">
+                    <div class="row">
+                      <div class="col-md-4"><img src="assets/img/speakers/manoj.png" class="img-fluid" alt="">
+                        <div class="social">
+                          <a href="#" target=_blank><i class="bi bi-linkedin mt-2" style="font-size: 25px;"></i></a>
+                        </div>
+                      </div>
+                      <div class="col-md-8 ml-auto">
+                        <p>
+                          Manoj Kumar is a Senior Advisor to the Tata Trusts with executive responsibility for all university/institutional partnerships and manages the Innovations/R&D portfolio. He has conceived and co-founded the Foundation for Innovation and Social Entrepreneurship (FISE) to nurture social innovators through their lab to market journey. He is also the Founder and architect of Social Alpha, an ecosystem stack that aims to provide full lifecycle support to social innovators and entrepreneurs. Manoj is currently raising a social enterprise fund to provide early-stage risk capital to high impact technology startups in the social sector.
+                            <br><br>
+                          Social Alpha has been designed as a multistage innovation curation and venture development platform for science and technology start-ups that aim to address the most critical social, economic and environmental challenges. Social Alpha supports entrepreneurs through a network of innovation labs, startup incubators, accelerator programmes, seed funds and market access mechanisms. Selected startups get access to infrastructure, sandbox for pilots and validations, product management guidance, technical, business and regulatory expertise, early stage risk capital and entrepreneurial mentoring. Social Alpha raises financial resources to support these programmes from a number of philanthropic, government and corporate partnerships. Since its inception in 2016, Social Alpha has nurtured more than 200 start-ups including 60+ seed investments.
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- End Speaker -->
 
 
         </div>

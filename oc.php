@@ -348,7 +348,7 @@
                     
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/nagalekha.webp" class="img-fluid" alt="">
+                            <img src="assets/img/oc/nagalekha.png" class="img-fluid" alt="">
                             <div class="publication-info">
                                 <h4>Nagalekha Ramesh </h4>
                             </div>
